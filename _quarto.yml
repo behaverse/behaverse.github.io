@@ -1,0 +1,74 @@
+project:
+  type: website
+
+website:
+  title: "Behaverse"
+  site-url: "https://behaverse.org" 
+  repo-url: https://github.com/behaverse/website 
+  repo-actions: [edit, issue]
+  page-navigation: true
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By xCIT, 2024"
+
+  navbar:
+    logo: media/logo/behaverse_logo_purple.png
+    left:
+
+      - text: "Assessments"
+        href: assessments.qmd
+
+      - text: "Games"
+        href: games.qmd
+
+      - text: "Data"
+        href: data.qmd
+  
+      - text: "Models"
+        href: models.qmd
+
+      - text: "Standards"
+        href: standards.qmd
+
+      - text: "Tools"
+        href: tools.qmd
+
+      - text: "About us"
+        href: index.qmd
+      
+  sidebar:
+    # - logo: media/logo/behaverse_logo_purple.png
+    - title: "Home"
+      style: "docked"
+      contents:
+        - index.qmd
+
+    - title: "Data"
+      contents:
+        - data.qmd
+        - data_api.qmd
+        - data_datasets.qmd                        
+
+    - title: "Models"
+      contents:
+        - models.qmd
+        - models.qmd
+
+    - title: "Assessments"
+      contents:
+        - assessments.qmd
+        - assessments_cognitive.qmd
+        - assessments_questionnaire.qmd
+
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
