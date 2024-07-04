@@ -1,18 +1,48 @@
+# Models {.models}
+## {{< fa bullseye >}} About
 
-## Models
+Projects in Models focus on the analysis of empirical data to gain insights about the human mind and behavior. Models may comprise a wide array of projects including generic data analytical tools (e.g., IRT models), domain specific computational models (e.g., computational models of performance on the N-Back task), descriptive vs performing models (e.g., RL-agents performing tasks) as well as tools and environments to support the use of such models.
 
-Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
- 
-Behaverse comprises several “galaxies” which organize a collection of projects around a common theme. Behaverse is under continuous development: the amount of progress differs across projects, and some projects may exist only as prototypes or internal tools. 
+## {{< fa eye >}} Vision {.models}
+To make computational modeling accessible to a larger audience; to make it easier to improve on existing models and test the quality and generalizability of computational models across a wide range of benchmark datasets; to make cognitive sciences a cumulative science.
 
-Below we present the main Behaverse galaxies and their main projects.
- 
+## {{< fa flask >}} Projects {.models}
+
+### CogEnv
+CogEnv provides a virtual environment that allows artificial agents (typically using Reinforcement Learning Theory) to complete the exact same tasks as humans (more specifically, the [Behaverse Cognitive Assessment Battery](behaverse.org/assessments). CogEnv is based on [AndriodEnv](https://arxiv.org/abs/2105.13231 ).
+
+::: {.callout}
+
+You can read about this project [here](https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198)
+ and find the corresponding code [here](https://github.com/morteza/CogEnv) 
+
+:::
 
 
-## A
 
-## B
 
-## C
+### CogPonder
+CogPonder is a flexible, differentiable model of cognitive control that is inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. CogPonder functionally decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model and decides when to terminate processing and output a response, thus producing both a response and response time.
+
+
+::: {.callout}
+
+You can read about this project [here](https://2023.ccneuro.org/proceedings/0001148.pdf)
+ and find the corresponding code [here](https://github.com/morteza/CogPonder) 
+
+:::
+
+
+
+### CogText
+[CogText](https://github.com/morteza/CogText) uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other.
+
+
+::: {.callout}
+
+You can read the [CogText paper on arxiv.org](https://arxiv.org/abs/2203.11016 )
+ and find the [CogText code on GitHub](https://github.com/morteza/CogText ) 
+
+:::
 
 

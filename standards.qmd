@@ -1,18 +1,39 @@
 
-## Standards
+## Standards {.standards}
 
-Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
- 
-Behaverse comprises several “galaxies” which organize a collection of projects around a common theme. Behaverse is under continuous development: the amount of progress differs across projects, and some projects may exist only as prototypes or internal tools. 
-
-Below we present the main Behaverse galaxies and their main projects.
- 
+## {{< fa bullseye >}} About {.standards}
+Standards are necessary to ensure quality and reproducibility and to support the development of more effective operating procedures (e.g., automation). Virtually all aspects of research and data processing could benefit from clear and consistent standards. In the Standards galaxy, we present our efforts towards developing such standards; these projects typically comprise specifications (i.e., text documents) and code (e.g., validators, visualization).
 
 
-## A
+## {{< fa eye >}} Vision {.standards}
+To support the sharing and reuse of data, to facilitate and enable the development of new tools.
 
-## B
+##  {{< fa flask >}} Projects {.standards}
 
-## C
+### L1 data standard for cognitive tests
+There are increasing amounts of behavioral data freely available on the internet with metadata standards making it easier to find them. However, there are large inconsistencies in the way those datasets are structured and stored, in the way their variables are named and formatted and even in what is meant by various common terms. These inconsistencies make it unnecessarily hard to reuse datasets and prevent the development of effective software tools and automatization.
+
+The L1 behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
+
+::: {.callout}
+You can learn more about this project [here](behaverse.org/standards/).
+:::
+
+### L1 data standard for questionnaires
+Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
+
+::: {.callout}
+You can learn more about this project [here](behaverse.org/standards/).
+:::
 
 
+### Event data standard (v0)
+We developed a standard for structuring event data across cognitive tests, questionnaires, and video games. We will likely iterate over this standard or adopt existing standards before sharing it publicly. 
+
+
+### StudyFlow standard (prototype)
+Currently, the procedures in behavioral experimental studies are described as text in research papers. We propose to extend BPMN to describe studies (i.e., the flow of participants across activities within a study) more formally. This allows to ensure completeness and consistency but also the use and development of new software tools (e.g., for visualizing studies or analyzing data).
+
+::: {.callout}
+You can learn more about this project [here](behaverse.org/standards/study-flow/).
+:::

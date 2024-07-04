@@ -36,31 +36,6 @@ website:
 
       - text: "About us"
         href: index.qmd
-      
-  sidebar:
-    # - logo: media/logo/behaverse_logo_purple.png
-    - title: "Home"
-      style: "docked"
-      contents:
-        - index.qmd
-
-    - title: "Data"
-      contents:
-        - data.qmd
-        - data_api.qmd
-        - data_datasets.qmd                        
-
-    - title: "Models"
-      contents:
-        - models.qmd
-        - models.qmd
-
-    - title: "Assessments"
-      contents:
-        - assessments.qmd
-        - assessments_cognitive.qmd
-        - assessments_questionnaire.qmd
-
 
 
 

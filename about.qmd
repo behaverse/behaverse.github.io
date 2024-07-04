@@ -1,5 +1,3 @@
 ---
-title: "About"
+title: "Behaverse"
 ---
-
-About this site
