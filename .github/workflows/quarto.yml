@@ -1,8 +1,9 @@
 name: 📚 Compile and Publish Website
 
 on:
-  release:
-      types: [published]
+  push:
+    branches:
+      - 'main'
   workflow_dispatch: {}
 
 permissions:
@@ -21,21 +22,13 @@ jobs:
       - name: 🛠️ Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: 🛠️ Setup Quartodoc
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install -U quartodoc
-      - run: cd docs/ && quartodoc build && quartodoc interlinks
-
       - name: 🎨 Render
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: html
-          path: docs/
 
       - name: 📦 Compress
-        run: cd docs/ && tar -cvf _site.tar.gz _site/
+        run: tar -cvf _site.tar.gz _site/
 
       - name: ⬆️ Upload
         uses: actions/upload-artifact@v4
