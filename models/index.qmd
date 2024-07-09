@@ -15,16 +15,13 @@ To make computational modeling accessible to a larger audience; to make it easie
 ## {{< fa flask >}} Projects
 
 ### CogEnv
-CogEnv provides a virtual environment that allows artificial agents (typically using Reinforcement Learning Theory) to complete the exact same tasks as humans (more specifically, the [Behaverse Cognitive Assessment Battery](/assessments/index.qmd)). CogEnv is based on [AndriodEnv](https://arxiv.org/abs/2105.13231 ).
+CogEnv provides a virtual environment that allows artificial agents (typically using reinforcement learning) to complete the exact same tasks as humans (more specifically, the [Behaverse Cognitive Assessment Battery](/assessments/index.qmd)). CogEnv is based on [AndriodEnv](https://arxiv.org/abs/2105.13231 ).
 
 ::: {.callout}
 
-You can read about this project [here](https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198)
- and find the corresponding code [here](https://github.com/morteza/CogEnv) 
+To read more about this project, see [CogEnv paper](https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198) and [CogEnv repository on GitHub](https://github.com/morteza/CogEnv).
 
 :::
-
-
 
 
 ### CogPonder
@@ -33,22 +30,18 @@ CogPonder is a flexible, differentiable model of cognitive control that is inspi
 
 ::: {.callout}
 
-You can read about this project [here](https://2023.ccneuro.org/proceedings/0001148.pdf)
- and find the corresponding code [here](https://github.com/morteza/CogPonder) 
+To read more about this project, see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) and [CogPonder respository on GitHub](https://github.com/morteza/CogPonder).
 
 :::
 
 
 
 ### CogText
-[CogText](https://github.com/morteza/CogText) uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other.
+CogText uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other.
 
 
 ::: {.callout}
 
-You can read the [CogText paper on arxiv.org](https://arxiv.org/abs/2203.11016 )
- and find the [CogText code on GitHub](https://github.com/morteza/CogText ) 
+To read more about this project, see [CogText paper on arXiv](https://arxiv.org/abs/2203.11016), [CogText repository on GitHub](https://github.com/morteza/CogText) and [CogText dataset on HuggingFace](https://huggingface.co/datasets/morteza/cogtext).
 
 :::
-
-
