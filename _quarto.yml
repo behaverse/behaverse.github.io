@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  # output-dir: docs  # NOTE we are now using GitHub actions to compile quarto, docs/ folder will be automatically generated on GitHub servers (and git-ignored on local)
 
 website:
   title: "Behaverse"
