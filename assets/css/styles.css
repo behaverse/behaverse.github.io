@@ -6,59 +6,41 @@
 body {
     font-family: 'system-ui','Roboto', sans-serif;
 }
-  
+
 h1, h2, h3 {
     font-family: 'system-ui','Roboto', sans-serif;
-    color: #8900f0;
+    color: #6A00D2;  /* primary purple for better contrast */
 }
 
-body.assessments h1, body.assessments h2, body.assessments h3 {
-  color: #e50000;
-}
-
-
-body.data h1, body.data h2, body.data h3 {
-  color: #00e9a6;
-}
-
-body.models h1, body.models h2, body.models h3 {
-  color: #ecd500;
-}
-
-body.games h1, body.games h2, body.games h3 {
-  color:#5b68f7;
-}
-
-
-body.standards h1, body.standards h2, body.standards h3 {
-  color: #e400d5;
-}
-
-
-body.tools h1, body.tools h2, body.tools h3 {
-  color: #7b7b7b;
-}
-
-*[aria-label="tools"] {
-  color: #7b7b7b;
-}
-
-*[aria-label="standards"] {
-  color: #e400d5;
-}
-
-*[aria-label="games"] {
-  color: #5b68f7;
-}
-
-*[aria-label="models"] {
-  color: #ecd500;
-}
-
-*[aria-label="data"] {
-  color: #00e9a6;
-}
-
+body.assessments h1, body.assessments h2, body.assessments h3,
 *[aria-label="assessments"] {
-  color: #e50000;
+  color: #C40000;  /* deep red for better readability */
+}
+
+
+body.data h1, body.data h2, body.data h3,
+*[aria-label="data"] {
+  color: #00C994;  /* cool teal for better readability */
+}
+
+body.models h1, body.models h2, body.models h3,
+*[aria-label="models"] {
+  color: #CCAC00;  /* gold yellow for a softer look. */
+}
+
+body.games h1, body.games h2, body.games h3,
+*[aria-label="games"] {
+  color:#4858D7;  /* soft blue for better readability */
+}
+
+
+body.standards h1, body.standards h2, body.standards h3,
+*[aria-label="standards"] {
+  color: #D100B5;  /* bright pink for better readability */
+}
+
+
+body.tools h1, body.tools h2, body.tools h3,
+*[aria-label="tools"] {
+  color: #555555;  /* neutral gray */
 }
