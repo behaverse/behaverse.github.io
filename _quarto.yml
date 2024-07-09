@@ -3,6 +3,7 @@ project:
   # output-dir: docs  # NOTE we are now using GitHub actions to compile quarto, docs/ folder will be automatically generated on GitHub servers (and git-ignored on local)
   resources:
     - "assessments/engine/**/*"
+    - "games/cognitive_training/**/*"
 
 website:
   title: "Behaverse"
@@ -26,12 +27,15 @@ website:
         - standards/index.qmd
         - tools/index.qmd
         - about.qmd
+    drafts:
+        - assessments/questionnaires.qmd
+        - assessments/cognitive_tests.qmd
+        - data/api.qmd
+        - data/datasets.qmd
+        - models/study-flow.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
