@@ -1,5 +1,5 @@
 ---
-title: "{{< iconify tabler:user-hexagon >}} About Us"
+title: "{{< iconify tabler:hexagon >}} About Us"
 toc: false
 ---
 
