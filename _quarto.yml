@@ -17,7 +17,7 @@ website:
     left: "&copy; CC-By xCIT, 2024"
 
   navbar:
-    logo: media/logo/behaverse_logo_purple.png
+    logo: assets/img/behaverse_logo_purple.png
     left:
 
         - assessments/index.qmd
@@ -30,12 +30,11 @@ website:
     drafts:
         - assessments/questionnaires.qmd
         - assessments/cognitive_tests.qmd
-        - data/api.qmd
         - data/datasets.qmd
-        - models/study-flow.qmd
+        - standards/study-flow.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: assets/css/styles.css
     toc: true

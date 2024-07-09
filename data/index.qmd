@@ -1,4 +1,13 @@
 
+---
+listing:
+  contents:
+    - path: /data/api/
+      href: https://behaverse.github.io/data-api
+      title: "Behaverse Data API"
+      description: "Behaverse Data API"
+---
+
 # Data {.data}
 
 ## {{< fa bullseye >}}  About {.data}
@@ -12,7 +21,7 @@ To make it easy, fast and fun to find, explore, download and process a wide rang
 A major challenge in behavioral and cognitive sciences is to define a standardized way of structuring and naming data so as to facilitate its processing. We dedicated a lot of effort in defining such standards for different types of data. 
 
 ::: {.callout}
-You can learn more about this project [here](/standards/index.qmd).
+You can learn more about this project [here](behaverse.github.io/data-model).
 :::
 
 ### The Behaverse dataset collection / dataset library
@@ -27,5 +36,5 @@ You can learn more about this project [here](/data/datasets.qmd).
 The Behaverse Data API offers solutions to find and download datasets that follow the Behaverse data standard. The data-api currently exists as a python library (an R version is in the planning). 
 
 ::: {.callout}
-You can learn more about this project [here](/data/api.qmd).
+You can learn more about this project [here](https://behaverse.github.io/data-api).
 :::
