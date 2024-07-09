@@ -15,7 +15,7 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By xCIT, 2024"
+    left: "&copy; 2024 [xCIT](https://xcit.org) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
   navbar:
     logo: assets/img/behaverse_logo_purple.png
