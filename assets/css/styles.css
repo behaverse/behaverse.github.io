@@ -9,38 +9,37 @@ body {
 
 h1, h2, h3 {
     font-family: 'system-ui','Roboto', sans-serif;
-    color: #6A00D2;  /* primary purple for better contrast */
+    color: #5A00C7;  /* primary purple for better contrast */
 }
 
 body.assessments h1, body.assessments h2, body.assessments h3,
-*[aria-label="assessments"] {
+span:has(> *[aria-label="assessments"]) {
   color: #C40000;  /* deep red for better readability */
 }
 
 
 body.data h1, body.data h2, body.data h3,
-*[aria-label="data"] {
-  color: #00C994;  /* cool teal for better readability */
+span:has(> *[aria-label="data"]) {
+  color: #00B884;  /* cool teal for better readability and distinction */
 }
 
 body.models h1, body.models h2, body.models h3,
-*[aria-label="models"] {
+span:has(> *[aria-label="models"]) {
   color: #CCAC00;  /* gold yellow for a softer look. */
 }
 
 body.games h1, body.games h2, body.games h3,
-*[aria-label="games"] {
-  color:#4858D7;  /* soft blue for better readability */
+span:has(> *[aria-label="games"]) {
+  color:#3A4BC7;  /* soft blue for better readability */
 }
 
 
 body.standards h1, body.standards h2, body.standards h3,
-*[aria-label="standards"] {
+span:has(> *[aria-label="standards"]) {
   color: #D100B5;  /* bright pink for better readability */
 }
 
-
 body.tools h1, body.tools h2, body.tools h3,
-*[aria-label="tools"] {
+span:has(> *[aria-label="tools"]) {
   color: #555555;  /* neutral gray */
 }
