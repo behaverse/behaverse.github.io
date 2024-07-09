@@ -1,12 +1,11 @@
 
 ---
-title: Tools
+title:  "{{< iconify tabler:hexagon-letter-t-filled label=tools >}} Tools"
 format:
     html:
         body-classes: tools
 ---
 
-## {{< fa bullseye >}} About
 Tools is a collection of software systems and tools that are used transversally within Behaverse. Some of these tools may have a general use and could be valuable beyond Behaverse.
 
 ## {{< fa eye >}} Vision

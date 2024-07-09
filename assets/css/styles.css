@@ -12,7 +12,7 @@ h1, h2, h3 {
     color: #8900f0;
 }
 
-body.assessment h1, body.assessment h2, body.assessment h3 {
+body.assessments h1, body.assessments h2, body.assessments h3 {
   color: #e50000;
 }
 
@@ -37,4 +37,28 @@ body.standards h1, body.standards h2, body.standards h3 {
 
 body.tools h1, body.tools h2, body.tools h3 {
   color: #7b7b7b;
+}
+
+*[aria-label="tools"] {
+  color: #7b7b7b;
+}
+
+*[aria-label="standards"] {
+  color: #e400d5;
+}
+
+*[aria-label="games"] {
+  color: #5b68f7;
+}
+
+*[aria-label="models"] {
+  color: #ecd500;
+}
+
+*[aria-label="data"] {
+  color: #00e9a6;
+}
+
+*[aria-label="assessments"] {
+  color: #e50000;
 }

@@ -1,12 +1,11 @@
 ---
-title: Data
+title:  "{{< iconify tabler:hexagon-letter-d-filled label=data >}} Data"
 format:
     html:
         body-classes: data
 ---
 
 
-## {{< fa bullseye >}}  About
 Data is fundamental to science. The Data galaxy contains datasets, software systems, frameworks and protocols that handle everything related to data management and automated processing.
 
 ## {{< fa eye >}}  Vision

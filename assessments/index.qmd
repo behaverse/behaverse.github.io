@@ -1,12 +1,11 @@
 ---
-title: Assessments
+title:  "{{< iconify tabler:hexagon-letter-a-filled label=assessments >}} Assessments"
 format:
     html:
-        body-classes: assessment
+        body-classes: assessments
 ---
 
 
-## {{< fa bullseye >}} About
 Assessments are activities designed by researchers to support the valid and reliable quantification of the psychological traits, abilities, and states of the people completing those activities. 
 
 Assessments comprise most prominently (but not exclusively) computerized cognitive tests (e.g., memorizing a sequence of digits in the digit span test) and questionnaires (e.g., the big-5 personality questionnaire). 
