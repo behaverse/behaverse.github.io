@@ -18,7 +18,7 @@ The ultimate goal for Assessments is to build a solid understanding of the desig
 Behaverse comprises a large battery of cognitive tests covering a wide range of domains, including attentional, perceptual, cognitive and motor abilities. This battery consists of multiple Cognitive Assessment Engines which are highly customizable (including the instructions, tutorials and practice blocks). By configuring a specific Cognitive Assessment Engine it is possible to instantiate many different cognitive tests.
 
 ::: {.callout}
-You can learn more about this project [here](/assessments/engine/) and [here](/assessments/cognitive_tests.qmd).
+You can learn more about this project [here](/assessments/engine/).
 :::
 
 ### Questionnaires
