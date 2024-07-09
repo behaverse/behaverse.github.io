@@ -1,4 +1,7 @@
-# Models {.models}
+---
+title: Models
+---
+
 ## {{< fa bullseye >}} About
 
 Projects in Models focus on the analysis of empirical data to gain insights about the human mind and behavior. Models may comprise a wide array of projects including generic data analytical tools (e.g., IRT models), domain specific computational models (e.g., computational models of performance on the N-Back task), descriptive vs performing models (e.g., RL-agents performing tasks) as well as tools and environments to support the use of such models.

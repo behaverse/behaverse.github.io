@@ -1,9 +1,10 @@
 
-# Games {.games}
+---
+title: Games
+---
+
 
 ## {{< fa bullseye >}} About {.games}
-
-
 
 
 Video games provide new opportunities for research in cognitive science research and societal impact. They offer rich situations that are ecologically more valid than traditional cognitive tests; they can scale up and allow to collect rich datasets from a large number of people from very diverse backgrounds--video games therefore have the potential to overcome critical limitations of traditional experimental cognitive science research.

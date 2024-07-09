@@ -1,5 +1,7 @@
 
-# Standards {.standards}
+---
+title: Standards
+---
 
 ## {{< fa bullseye >}} About {.standards}
 Standards are necessary to ensure quality and reproducibility and to support the development of more effective operating procedures (e.g., automation). Virtually all aspects of research and data processing could benefit from clear and consistent standards. In the Standards galaxy, we present our efforts towards developing such standards; these projects typically comprise specifications (i.e., text documents) and code (e.g., validators, visualization).

@@ -26,7 +26,7 @@ website:
         - models/index.qmd
         - standards/index.qmd
         - tools/index.qmd
-        - about.qmd
+        - about_us.qmd
     drafts:
         - assessments/questionnaires.qmd
         - assessments/cognitive_tests.qmd

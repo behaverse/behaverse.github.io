@@ -1,4 +1,6 @@
-# About us
+---
+title: About Us
+---
 
 Behaverse was initiated as part of an [FNR](https://www.fnr.lu/) funded cognitive sciences research project from [xCIT](https://xcit.org/)—a research team led by Prof. Pedro Cardoso-Leite (Luxembourg National Research Fund Luxembourg National Research Fund; [ATTRACT/2016/ID/11242114/DIGILEARN](https://www.fnr.lu/research-with-impact-fnr-highlight/attract-fellows-cardoso-leite/)).
 

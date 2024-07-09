@@ -1,14 +1,7 @@
-
 ---
-listing:
-  contents:
-    - path: /data/api/
-      href: https://behaverse.github.io/data-api
-      title: "Behaverse Data API"
-      description: "Behaverse Data API"
+title: Data
 ---
 
-# Data {.data}
 
 ## {{< fa bullseye >}}  About {.data}
 Data is fundamental to science. The Data galaxy contains datasets, software systems, frameworks and protocols that handle everything related to data management and automated processing.
