@@ -16,6 +16,10 @@ h1, h2, h3 {
     color: #5A00C7;  /* primary purple for better contrast */
 }
 
+body.about a, body.models a {
+  text-decoration: none;  /* remove underline from links in the about page */
+}
+
 body.assessments h1, body.assessments h2, body.assessments h3,
 span:has(> *[aria-label="assessments"]) {
   color: #C40000;  /* deep red for better readability */

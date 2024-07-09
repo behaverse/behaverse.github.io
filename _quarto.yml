@@ -27,7 +27,7 @@ website:
         - standards/index.qmd
         - tools/index.qmd
     right:
-        - about_us.qmd
+        - about.qmd
     drafts:
         - assessments/questionnaires.qmd
         - assessments/cognitive_tests.qmd
@@ -42,3 +42,4 @@ format:
     toc: true
     # toc-title: " "
     toc-location: left
+    link-external-icon: false

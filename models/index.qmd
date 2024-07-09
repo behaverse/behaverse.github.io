@@ -3,6 +3,29 @@ title: "{{< iconify tabler:hexagon-letter-m-filled label=models >}} Models"
 format:
     html:
         body-classes: models
+        code-links:
+            - text: CogText
+              icon: github
+              href: https://github.com/morteza/CogText
+            - text: CogEnv
+              icon: github
+              href: https://github.com/morteza/CogEnv
+            - text: CogPonder
+              icon: github
+              href: https://github.com/morteza/CogPonder
+        other-links:
+            - text: CogText Paper
+              icon: file-text
+              href: https://arxiv.org/abs/2203.11016
+            - text: CogText Dataset
+              icon: database
+              href: https://huggingface.co/datasets/morteza/cogtext
+            - text: CogEnv Paper
+              icon: file-text
+              href: https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198
+            - text: CogPonder Paper
+              icon: file-text
+              href: https://2023.ccneuro.org/proceedings/0001148.pdf
 ---
 
 Projects in Models focus on the analysis of empirical data to gain insights about the human mind and behavior. Models may comprise a wide array of projects including generic data analytical tools (e.g., IRT models), domain specific computational models (e.g., computational models of performance on the N-Back task), descriptive vs performing models (e.g., RL-agents performing tasks) as well as tools and environments to support the use of such models.
@@ -13,7 +36,7 @@ To make computational modeling accessible to a larger audience; to make it easie
 ##  {{< bi puzzle >}} Projects
 
 ### CogEnv
-CogEnv provides a virtual environment that allows artificial agents (typically using reinforcement learning) to complete the exact same tasks as humans (more specifically, the [Behaverse Cognitive Assessment Battery](/assessments/index.qmd)). CogEnv is based on [AndriodEnv](https://arxiv.org/abs/2105.13231 ).
+CogEnv is a virtual environment based on [AndriodEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tasks as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tasks that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tasks](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
 
 ::: {.callout}
 

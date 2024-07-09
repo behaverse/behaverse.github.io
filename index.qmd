@@ -11,4 +11,4 @@ Behaverse is organized into several "galaxies" which are collections of projects
 
 This website offers introduction to the main Behaverse galaxies and provides links to their leading projects.
 
-For more information about our team, funding sources and ways to get involved, visit [About Us](/about_us.qmd) page.
+For more information about our team, funding sources and ways to get involved, visit the [*about us*](/about.qmd) page.
