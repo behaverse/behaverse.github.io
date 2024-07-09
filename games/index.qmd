@@ -1,20 +1,22 @@
-
 ---
 title: Games
+format:
+    html:
+        body-classes: games
 ---
 
 
-## {{< fa bullseye >}} About {.games}
+## {{< fa bullseye >}} About
 
 
 Video games provide new opportunities for research in cognitive science research and societal impact. They offer rich situations that are ecologically more valid than traditional cognitive tests; they can scale up and allow to collect rich datasets from a large number of people from very diverse backgrounds--video games therefore have the potential to overcome critical limitations of traditional experimental cognitive science research.
 
 Furthermore the effective use of public video games for cognitive science research requires the integration of various facets of cognitive science research that are typically studied separately (e.g., user experience, motivation, cognition). They also require a scientific theory of game design to translate our scientific understanding into concrete game experiences. 
 
-## {{< fa eye >}}  Vision   {.games}
+## {{< fa eye >}}  Vision  
 To make large-audience, high-quality video games a main driver of cognitive science research and societal impact.
 
-## {{< fa flask >}}  Projects {.games}
+## {{< fa flask >}}  Projects
 
 
 ### Cognitive Training Game

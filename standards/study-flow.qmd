@@ -1,1 +1,7 @@
-# StudyFlow Standards
+---
+title: StudyFlow Standards
+format:
+    html:
+        body-classes: standards
+---
+

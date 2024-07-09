@@ -1,2 +1,8 @@
-# Batchman
+---
+title: Batchman
+format:
+    html:
+        body-classes: tools
+---
+
 

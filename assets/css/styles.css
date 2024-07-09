@@ -12,32 +12,29 @@ h1, h2, h3 {
     color: #8900f0;
 }
 
-
-
-.assessment h1, .assessment h2, .assessment h3 {
+body.assessment h1, body.assessment h2, body.assessment h3 {
   color: #e50000;
 }
 
 
-.data h1, .data h2, .data h3 {
+body.data h1, body.data h2, body.data h3 {
   color: #00e9a6;
 }
 
-.models h1, .models h2, .models h3 {
+body.models h1, body.models h2, body.models h3 {
   color: #ecd500;
 }
 
-.games h1, .games h2, .games h3 {
+body.games h1, body.games h2, body.games h3 {
   color:#5b68f7;
 }
 
 
-.standards h1, .standards h2, .standards h3 {
+body.standards h1, body.standards h2, body.standards h3 {
   color: #e400d5;
 }
 
 
-
-.tools h1, .tools h2, .tools h3 {
+body.tools h1, body.tools h2, body.tools h3 {
   color: #7b7b7b;
 }

@@ -1,15 +1,18 @@
 
 ---
 title: Tools
+format:
+    html:
+        body-classes: tools
 ---
 
-## {{< fa bullseye >}} About {.tools}
+## {{< fa bullseye >}} About
 Tools is a collection of software systems and tools that are used transversally within Behaverse. Some of these tools may have a general use and could be valuable beyond Behaverse.
 
-## {{< fa eye >}} Vision {.tools}
+## {{< fa eye >}} Vision
 Streamline and automate the boring stuff so more brain time can be dedicated to scientific research.
 
-##  {{< fa flask >}} Projects {.tools}
+##  {{< fa flask >}} Projects
 
 ### Batchman
 An R package (and proto-standard) to support the automated execution of data analysis code on a large number of files. A key goal is to separate the code that does the data analysis from the code that orchestrates the application of that code to data files and the management of the resulting output files. This project also offers ideas on how to organize data analysis code and output files to ensure traceability and reproducibility. 

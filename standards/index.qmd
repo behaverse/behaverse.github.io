@@ -1,6 +1,8 @@
-
 ---
 title: Standards
+format:
+    html:
+        body-classes: standards
 ---
 
 ## {{< fa bullseye >}} About {.standards}
