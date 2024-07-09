@@ -9,11 +9,10 @@ Video games provide new opportunities for research in cognitive science research
 
 Furthermore the effective use of public video games for cognitive science research requires the integration of various facets of cognitive science research that are typically studied separately (e.g., user experience, motivation, cognition). They also require a scientific theory of game design to translate our scientific understanding into concrete game experiences. 
 
-## {{< fa eye >}}  Vision  
+## {{< bi eye >}}  Vision  
 To make large-audience, high-quality video games a main driver of cognitive science research and societal impact.
 
-## {{< fa flask >}}  Projects
-
+##  {{< bi puzzle >}} Projects
 
 ### Cognitive Training Game
 The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 

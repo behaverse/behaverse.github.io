@@ -33,9 +33,12 @@ website:
         - assessments/cognitive_tests.qmd
         - data/datasets.qmd
         - standards/study-flow.qmd
+        - tools/batchman.qmd
 
 format:
   html:
     theme: cosmo
     css: assets/css/styles.css
     toc: true
+    # toc-title: " "
+    toc-location: left

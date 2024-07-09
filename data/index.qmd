@@ -8,10 +8,11 @@ format:
 
 Data is fundamental to science. The Data galaxy contains datasets, software systems, frameworks and protocols that handle everything related to data management and automated processing.
 
-## {{< fa eye >}}  Vision
+## {{< bi eye >}}  Vision
 To make it easy, fast and fun to find, explore, download and process a wide range of standardized experimental datasets in cognitive sciences and related fields (including benchmark datasets). 
 
-## {{< fa flask >}} Projects
+##  {{< bi puzzle >}} Projects
+
 ### The Behaverse data standards
 A major challenge in behavioral and cognitive sciences is to define a standardized way of structuring and naming data so as to facilitate its processing. We dedicated a lot of effort in defining such standards for different types of data. 
 
