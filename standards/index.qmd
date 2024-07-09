@@ -20,14 +20,14 @@ There are increasing amounts of behavioral data freely available on the internet
 The L1 behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
 
 ::: {.callout}
-You can learn more about this project [here](/standards/index.qmd).
+You can learn more about this project [here](https://behaverse.github.io/data-model).
 :::
 
 ### L1 data standard for questionnaires
 Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
 
 ::: {.callout}
-You can learn more about this project [here](/standards/index.qmd).
+You can learn more about this project [here](https://behaverse.github.io/data-model).
 :::
 
 

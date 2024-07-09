@@ -17,7 +17,7 @@ To make it easy, fast and fun to find, explore, download and process a wide rang
 A major challenge in behavioral and cognitive sciences is to define a standardized way of structuring and naming data so as to facilitate its processing. We dedicated a lot of effort in defining such standards for different types of data. 
 
 ::: {.callout}
-You can learn more about this project [here](https://behaverse.github.io/data-model).
+You can learn more about this project [here](/standards/index.qmd).
 :::
 
 ### The Behaverse dataset collection / dataset library
