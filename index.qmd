@@ -1,9 +1,4 @@
----
-title: "Behaverse"
----
-
-
-## The Behaverse project
+# The Behaverse project
 Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
  
 Behaverse comprises several “galaxies” which are collections of projects around a common theme. Behaverse is under continuous development: the amount of progress differs across projects, and some projects may exist only as prototypes or internal tools. 
@@ -11,10 +6,8 @@ Behaverse comprises several “galaxies” which are collections of projects aro
 In this website we introduce the main Behaverse galaxies and provide links to their main projects.
  
 
-## About us
-Behaverse was initiated as part of an [FNR](https://www.fnr.lu/) funded cognitive sciences research project from [xCIT](https://xcit.org/)—a research team led by Prof. Pedro Cardoso-Leite (Luxembourg National Research Fund Luxembourg National Research Fund; [ATTRACT/2016/ID/11242114/DIGILEARN](https://www.fnr.lu/research-with-impact-fnr-highlight/attract-fellows-cardoso-leite/)).
+{{< include about.qmd >}}
 
-xCIT is part of the [University of Luxembourg](https://wwwen.uni.lu/), and more specifically the [Department of Behavioral and Cognitive Sciences](https://humanities.uni.lu/behavioural-cognitive-sciences) in the [Faculty of Humanities, Education and Social Sciences](https://wwwen.uni.lu/fhse), which is located on [Campus Belval](https://www.belval.lu/en) — a former steel industry site converted into a vibrant environment for research and innovation.
 
-## How to contribute
+# How to contribute
 To get in touch, [send us an email](mailto:contact@xcit.org).

@@ -1,6 +1,8 @@
 project:
   type: website
   # output-dir: docs  # NOTE we are now using GitHub actions to compile quarto, docs/ folder will be automatically generated on GitHub servers (and git-ignored on local)
+  resources:
+    - "assessments/engine/**/*"
 
 website:
   title: "Behaverse"
@@ -17,28 +19,13 @@ website:
     logo: media/logo/behaverse_logo_purple.png
     left:
 
-      - text: "Assessments"
-        href: assessments.qmd
-
-      - text: "Games"
-        href: games.qmd
-
-      - text: "Data"
-        href: data.qmd
-  
-      - text: "Models"
-        href: models.qmd
-
-      - text: "Standards"
-        href: standards.qmd
-
-      - text: "Tools"
-        href: tools.qmd
-
-      - text: "About us"
-        href: index.qmd
-
-
+        - assessments/index.qmd
+        - games/index.qmd
+        - data/index.qmd
+        - models/index.qmd
+        - standards/index.qmd
+        - tools/index.qmd
+        - about.qmd
 
 format:
   html:
