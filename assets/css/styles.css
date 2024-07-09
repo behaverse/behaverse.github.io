@@ -7,6 +7,10 @@ body {
     font-family: 'system-ui','Roboto', sans-serif;
 }
 
+.navbar-logo {
+    max-height: 36px;
+}
+
 h1, h2, h3 {
     font-family: 'system-ui','Roboto', sans-serif;
     color: #5A00C7;  /* primary purple for better contrast */
