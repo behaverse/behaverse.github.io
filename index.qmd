@@ -7,7 +7,7 @@ toc-location: right
 
 Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
  
-Behaverse is organized into several "galaxies" which are collections of projects around a common theme. the amount of progress differs across projects, some fully developed and operational, while others remain in the prototype or internal tool stages.
+Behaverse is organized into several "galaxies" which are collections of projects around a common theme. The amount of progress differs across projects, some fully developed and operational, while others remain in the prototype or internal tool stages.
 
 This website offers introduction to the main Behaverse galaxies and provides links to their leading projects.
 
