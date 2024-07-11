@@ -1,6 +1,9 @@
 
 ---
 title:  "{{< iconify tabler:hexagon-letter-t-filled label=tools >}} Tools"
+listing:
+    include:
+        galaxies: tools
 format:
     html:
         body-classes: tools

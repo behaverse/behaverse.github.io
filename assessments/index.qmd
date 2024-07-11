@@ -1,5 +1,8 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-a-filled label=assessments >}} Assessments"
+listing:
+    include:
+        galaxies: assessments
 format:
     html:
         body-classes: assessments

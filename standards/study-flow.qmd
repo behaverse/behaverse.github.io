@@ -1,5 +1,6 @@
 ---
 title: StudyFlow Standards
+listing: false
 format:
     html:
         body-classes: standards

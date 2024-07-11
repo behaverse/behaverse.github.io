@@ -1,0 +1,23 @@
+- title: CogPonder
+  subtitle: Deep Learning Architecture for General Cognitive Control
+  order: 2
+  description: "CogPonder is a flexible, differentiable model of cognitive control that is inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. CogPonder functionally decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model and decides when to terminate processing and output a response, thus producing both a response and response time."
+  more_info: To read more about this project, see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) and [CogPonder repository on GitHub](https://github.com/morteza/CogPonder).
+  links:
+    - title: Paper
+      href: https://2023.ccneuro.org/proceedings/0001148.pdf
+    - title: GitHub
+      href: https://github.com/morteza/CogPonder
+  galaxies: [models]
+- title: CogEnv
+  order: 1
+  description: CogEnv is a virtual environment based on [AndriodEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tasks as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tasks that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tasks](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
+  more_info: To read more about this project, see [CogEnv paper](https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198) and [CogEnv repository on GitHub](https://github.com/morteza/CogEnv).
+  links:
+  galaxies: [models]
+- title: CogText
+  order: 3
+  description: "CogText uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other."
+  more_info: "To read more about this project, see [CogText paper on arXiv](https://arxiv.org/abs/2203.11016), [CogText repository on GitHub](https://github.com/morteza/CogText) and [CogText dataset on HuggingFace](https://huggingface.co/datasets/morteza/cogtext)."
+  links:
+  galaxies: [models]
