@@ -6,6 +6,12 @@ project:
     - "assessments/engine/**/*"
     - "games/cognitive_training/**/*"
 
+listing:
+  template: projects.ejs
+  contents: 
+    - projects.yml
+  sort: "order asc"
+
 website:
   title: "Behaverse"
   site-url: "https://behaverse.org" 

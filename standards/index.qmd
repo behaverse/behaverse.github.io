@@ -1,5 +1,8 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-s-filled label=standards >}} Standards"
+listing:
+    include:
+        galaxies: standards
 format:
     html:
         body-classes: standards

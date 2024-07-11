@@ -1,5 +1,8 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-g-filled label=games >}} Games"
+listing:
+    include:
+        galaxies: games
 format:
     html:
         body-classes: games

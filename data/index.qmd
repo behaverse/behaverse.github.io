@@ -1,5 +1,8 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-d-filled label=data >}} Data"
+listing:
+    include:
+        galaxies: data
 format:
     html:
         body-classes: data
