@@ -16,7 +16,7 @@ h1, h2, h3 {
     color: #5A00C7;  /* primary purple for better contrast */
 }
 
-body.about a, body.models a {
+body.about a, a.card-link {
   text-decoration: none;  /* remove underline from links in the about page */
 }
 
@@ -37,13 +37,17 @@ span:has(> *[aria-label="models"]) {
 }
 
 body.games h1, body.games h2, body.games h3,
-span:has(> *[aria-label="games"]) {
+span:has(> *[aria-label="games"]),
+a:has(> *[aria-label="games"])
+{
   color:#3A4BC7;  /* soft blue for better readability */
 }
 
 
 body.standards h1, body.standards h2, body.standards h3,
-span:has(> *[aria-label="standards"]) {
+span:has(> *[aria-label="standards"]),
+a:has(> *[aria-label="standards"])
+{
   color: #D100B5;  /* bright pink for better readability */
 }
 

@@ -7,8 +7,10 @@
     CogPonder is a flexible, differentiable model of cognitive control that is inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. CogPonder functionally decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model and decides when to terminate processing and output a response, thus producing both a response and response time."
   links:
     - title: Paper
+      icon: bi file-text
       href: https://2023.ccneuro.org/proceedings/0001148.pdf
     - title: GitHub
+      icon: bi github
       href: https://github.com/morteza/CogPonder
 
 - title: CogEnv
@@ -19,8 +21,10 @@
     CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tasks as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tasks that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tasks](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
   links:
     - title: Paper
+      icon: bi file-text
       href: https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198
     - title: GitHub
+      icon: bi github
       href: https://github.com/morteza/CogEnv
 
 - title: CogText
@@ -31,10 +35,13 @@
     CogText uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other."
   links:
     - title: Paper
+      icon: bi file-text
       href: https://arxiv.org/abs/2203.11016
     - title: GitHub
+      icon: bi github
       href: https://github.com/morteza/CogText
     - title: Dataset
+      icon: bi database
       href: https://huggingface.co/datasets/morteza/cogtext
 
 - title: Cognitive Assessment Engine
@@ -45,6 +52,7 @@
     Behaverse comprises a large battery of cognitive tests covering a wide range of domains, including attentional, perceptual, cognitive and motor abilities. This battery consists of multiple Cognitive Assessment Engines which are highly customizable (including the instructions, tutorials and practice blocks). By configuring a specific Cognitive Assessment Engine it is possible to instantiate many different cognitive tests.
   links:
     - title: More info
+      icon: bi info-circle
       href: /assessments/engine/
 
 - title: Questionnaires
@@ -59,6 +67,7 @@
     We also curated a list of questionnaires that we modified to increase consistency and data quality. We also developed software to distribute our questionnaires online while being GDPR compliant, multilingual, and supporting the collection of event data (e.g., key strokes, mouse trajectory) using a consistent data model. Finally, we developed a questionnaire response data model to facilitate and streamline the analysis of questionnaire response data.'
   links:
     - title: More info
+      icon: bi info-circle
       href: /assessments/questionnaires.qmd
 
 - title: Games
@@ -67,6 +76,10 @@
   order: 3
   description: |
     Video Games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) section of this website.
+  links:
+    - title: Games
+      icon: iconify tabler:hexagon-letter-g-filled label=games
+      href: /games/index.qmd
 
 - title: Cognitive Training Game
   galaxies:
@@ -76,6 +89,7 @@
     The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 
   links:
     - title: More info
+      icon: bi info-circle
       href: /games/cognitive_training/
 
 - title: Mathemarmite
@@ -84,10 +98,17 @@
     - games
   order: 3
   description: |
-    We released [*Mathemarmite*](https://mathemarmite.lu/) on the [Google Play](https://play.google.com/store/apps/details?id=org.xcit.mathemarmite&rdid=org.xcit.mathemarmite&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and [App Stores](https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8), a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. This game was nominated for Best social effect / game beyond entertainment at Game Connection 2019.
+    *Mathemarmite* is a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. Our game was nominated for Best social effect / game beyond entertainment at [Game Connection 2019](https://www.game-connection.com/game-connection-europe-2019-development-awards/).
   links:
     - title: Website
+      icon: bi globe
       href: https://mathemarmite.lu/
+    - title: Google Play
+      icon: bi google-play
+      href: https://play.google.com/store/apps/details?id=org.xcit.mathemarmite&rdid=org.xcit.mathemarmite&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+    - title: App Store
+      icon: bi apple
+      href: https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8
 
 - title: Collaboration Games
   subtitle: prototype
@@ -105,6 +126,7 @@
     A major challenge in behavioral and cognitive sciences is to define a standardized way of structuring and naming data so as to facilitate its processing. We dedicated a lot of effort in defining such standards for different types of data. 
   links:
     - title: Standards
+      icon: iconify tabler:hexagon-letter-s-filled label=standards
       href: /standards/index.qmd
 
 - title: Datasets Library
@@ -115,6 +137,7 @@
     We are developing a curated list of datasets, all formatted according to Behaverse data standards. These datasets may be used for additional analysis, for benchmarking computational models and for developing multitask models among other things.
   links:
     - title: Datasets
+      icon: bi database
       href: /data/datasets.qmd
 
 - title: Data API
@@ -125,6 +148,7 @@
     The Behaverse Data API offers solutions to find and download datasets that follow the Behaverse data standard. The data-api currently exists as a python library (an R version is in the planning). 
   links:
     - title: Data API
+      icon: bi globe
       href: https://behaverse.github.io/data-api
 
 - title: L1 Data Standard
@@ -137,8 +161,9 @@
     
     The L1 behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
   links:
-    title: Data Model
-    href: https://behaverse.github.io/data-model
+    - title: Website
+      icon: bi globe
+      href: https://behaverse.github.io/data-model
 
 - title: L1 Data Standard
   subtitle: for questionnaires
@@ -149,6 +174,7 @@
     Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
   links:
     - title: Website
+      icon: bi globe
       href: https://behaverse.github.io/data-model
 
 - title: Events Data Standard
@@ -168,6 +194,7 @@
     Currently, the procedures in behavioral experimental studies are described as text in research papers. We propose to extend BPMN to describe studies (i.e., the flow of participants across activities within a study) more formally. This allows to ensure completeness and consistency but also the use and development of new software tools (e.g., for visualizing studies or analyzing data).
   links:
     - title: Specification
+      icon: bi info-circle
       href: /standards/study-flow.qmd
 
 - title: Batchman
@@ -178,6 +205,7 @@
     An R package (and proto-standard) to support the automated execution of data analysis code on a large number of files. A key goal is to separate the code that does the data analysis from the code that orchestrates the application of that code to data files and the management of the resulting output files. This project also offers ideas on how to organize data analysis code and output files to ensure traceability and reproducibility.
   links:
     - title: More info
+      icon: bi info-circle
       href: /tools/batchman.qmd
 
 - title: Misc

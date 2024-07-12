@@ -19,8 +19,7 @@
 
 
 <% if (item.links && item.links.length > 0) { %>
-<% for (const link of item.links) { %>[<%- link.title %>](<%- link.href %>){.card-link}<% } %>
-<% } %>
+<% for (const link of item.links) { %>[<% if (link.icon) { %>{{< <%- link.icon %> >}} <% } %> <%- link.title %>](<%- link.href %>){.card-link} <% }%><% } %>
 
 ::::
 :::
