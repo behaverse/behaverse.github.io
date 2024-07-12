@@ -16,7 +16,7 @@ h1, h2, h3 {
     color: #5A00C7;  /* primary purple for better contrast */
 }
 
-body.about a, a.card-link {
+body.about .content a, a.card-link {
   text-decoration: none;  /* remove underline from links in the about page */
 }
 
