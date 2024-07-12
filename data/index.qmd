@@ -1,5 +1,7 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-d-filled label=data >}} Data"
+abstract: |
+  Data is fundamental to science. The Data galaxy contains datasets, software systems, frameworks and protocols that handle everything related to data management and automated processing.
 listing:
   template: ../assets/ejs/projects.ejs
   id: projects
@@ -12,9 +14,6 @@ format:
     html:
         body-classes: data
 ---
-
-
-Data is fundamental to science. The Data galaxy contains datasets, software systems, frameworks and protocols that handle everything related to data management and automated processing.
 
 ## {{< bi eye >}}  Vision
 To make it easy, fast and fun to find, explore, download and process a wide range of standardized experimental datasets in cognitive sciences and related fields (including benchmark datasets). 

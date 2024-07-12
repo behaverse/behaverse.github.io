@@ -1,5 +1,7 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-m-filled label=models >}} Models"
+abstract: |
+  Projects in Models focus on the analysis of empirical data to gain insights about the human mind and behavior. Models may comprise a wide array of projects including generic data analytical tools (e.g., IRT models), domain specific computational models (e.g., computational models of performance on the N-Back task), descriptive vs performing models (e.g., RL-agents performing tasks) as well as tools and environments to support the use of such models.
 listing:
   template: ../assets/ejs/projects.ejs
   id: projects
@@ -11,35 +13,10 @@ listing:
 format:
     html:
         body-classes: models
-        code-links:
-            - text: CogText
-              icon: github
-              href: https://github.com/morteza/CogText
-            - text: CogEnv
-              icon: github
-              href: https://github.com/morteza/CogEnv
-            - text: CogPonder
-              icon: github
-              href: https://github.com/morteza/CogPonder
-        other-links:
-            - text: CogText Paper
-              icon: file-text
-              href: https://arxiv.org/abs/2203.11016
-            - text: CogText Dataset
-              icon: database
-              href: https://huggingface.co/datasets/morteza/cogtext
-            - text: CogEnv Paper
-              icon: file-text
-              href: https://2022.ccneuro.org/proceedings/0000205.pdf?pn=1198
-            - text: CogPonder Paper
-              icon: file-text
-              href: https://2023.ccneuro.org/proceedings/0001148.pdf
 ---
 
-Projects in Models focus on the analysis of empirical data to gain insights about the human mind and behavior. Models may comprise a wide array of projects including generic data analytical tools (e.g., IRT models), domain specific computational models (e.g., computational models of performance on the N-Back task), descriptive vs performing models (e.g., RL-agents performing tasks) as well as tools and environments to support the use of such models.
-
 ## {{< bi eye >}} Vision
-To make computational modeling accessible to a larger audience; to make it easier to improve on existing models and test the quality and generalizability of computational models across a wide range of benchmark datasets; to make cognitive sciences a cumulative science.
+[To make computational modeling accessible to a larger audience; to make it easier to improve on existing models and test the quality and generalizability of computational models across a wide range of benchmark datasets; to make cognitive sciences a cumulative science.]{.callout}
 
 ## {{<bi puzzle>}} Projects
 

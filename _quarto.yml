@@ -19,7 +19,6 @@ website:
   navbar:
     logo: assets/img/behaverse_logo_purple.png
     left:
-
         - assessments/index.qmd
         - games/index.qmd
         - data/index.qmd
@@ -37,6 +36,9 @@ website:
 
 format:
   html:
+    title-block-banner: true
+    title-block-style: manuscript
+    abstract-title: " "
     theme:
       light: cosmo
       # dark: [cosmo, assets/css/dark-theme.scss]

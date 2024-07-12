@@ -14,11 +14,12 @@
       href: https://github.com/morteza/CogPonder
 
 - title: CogEnv
+  subtitle: A reinforcement learning environment for cognitive tests
   galaxies:
     - models
   order: 1
   description: |
-    CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tasks as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tasks that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tasks](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
+    CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tests as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tests that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tests](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
   links:
     - title: Paper
       icon: bi file-text
@@ -28,11 +29,12 @@
       href: https://github.com/morteza/CogEnv
 
 - title: CogText
+  subtitle: Linking theories and methods in cognitive sciences
   galaxies:
     - models
   order: 3
   description: |
-    CogText uses large language models to parse a large corpus of scientific documents to investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other."
+    We used large language models to parse a large corpus of scientific documents about cognitive control and investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other. CogText performs automated text analyses on 385,705 scientific texts and creates a joint representation of cognitive control tests and constructs.
   links:
     - title: Paper
       icon: bi file-text
@@ -75,7 +77,7 @@
     - assessments
   order: 3
   description: |
-    Video Games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) section of this website.
+    Video games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) section of this website.
   links:
     - title: Games
       icon: iconify tabler:hexagon-letter-g-filled label=games
@@ -147,7 +149,7 @@
   description: |
     The Behaverse Data API offers solutions to find and download datasets that follow the Behaverse data standard. The data-api currently exists as a python library (an R version is in the planning). 
   links:
-    - title: Data API
+    - title: Website
       icon: bi globe
       href: https://behaverse.github.io/data-api
 
