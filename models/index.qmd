@@ -1,6 +1,11 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-m-filled label=models >}} Models"
 listing:
+  template: ../projects.ejs
+  id: projects
+  contents: 
+    - ../projects.yml
+  sort: "order asc"
   include:
     galaxies: models
 format:
@@ -35,3 +40,8 @@ Projects in Models focus on the analysis of empirical data to gain insights abou
 
 ## {{< bi eye >}} Vision
 To make computational modeling accessible to a larger audience; to make it easier to improve on existing models and test the quality and generalizability of computational models across a wide range of benchmark datasets; to make cognitive sciences a cumulative science.
+
+## {{<bi puzzle>}} Projects
+
+::: {#projects}
+:::
