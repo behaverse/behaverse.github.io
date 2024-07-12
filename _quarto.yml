@@ -43,7 +43,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      # dark: [cosmo, assets/css/dark-theme.scss]
     css: assets/css/styles.css
     toc: true
     # toc-title: " "
