@@ -10,9 +10,9 @@ website:
   title: "Behaverse"
   site-url: "https://behaverse.org" 
   repo-url: https://github.com/behaverse/website 
-  # repo-actions: [edit, issue]
-
+  repo-actions: none
   page-footer:
+    background: light
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     center: "&copy; 2024 [xCIT](https://xcit.org) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 
@@ -26,7 +26,16 @@ website:
         - standards/index.qmd
         - tools/index.qmd
     right:
-        - about.qmd
+        - text: Help
+          menu: 
+            - icon: info-circle
+              url: about.qmd
+            - icon: github
+              text: GitHub
+              url: https://github.com/behaverse
+            - icon: bug
+              text: Report an Issue
+              url: https://github.com/behaverse/website/issues
     drafts:
         - assessments/questionnaires.qmd
         - assessments/cognitive_tests.qmd
@@ -42,6 +51,7 @@ format:
     theme:
       light: cosmo
       # dark: [cosmo, assets/css/dark-theme.scss]
+    email-obfuscation: javascript
     css: assets/css/styles.css
     toc: true
     # toc-title: " "

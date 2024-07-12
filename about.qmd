@@ -1,5 +1,7 @@
 ---
 title: "About Us"
+title-block-banner: false
+title-block-style: default
 toc: false
 toc-location: right
 format:
@@ -13,4 +15,5 @@ xCIT is part of the [University of Luxembourg](https://wwwen.uni.lu/), and more 
 
 
 ## How to contribute
-To get in touch, [send us an email](mailto:contact@xcit.org).
+
+To get in touch, visit [our GitHub organization](https://github.com/behaverse/). You can also reach out to us by email at [contact@xcit.org](mailto:contact@xcit.org).

@@ -1,8 +1,9 @@
 ---
-title: The Behaverse project
 toc: false
 listing: false
 ---
+
+# The Behaverse project
 
 Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
  
