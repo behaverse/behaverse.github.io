@@ -1,7 +1,7 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-m-filled label=models >}} Models"
 listing:
-  template: ../projects.ejs
+  template: ../assets/ejs/projects.ejs
   id: projects
   contents: 
     - ../projects.yml

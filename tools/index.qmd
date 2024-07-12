@@ -1,8 +1,7 @@
-
 ---
 title:  "{{< iconify tabler:hexagon-letter-t-filled label=tools >}} Tools"
 listing:
-  template: ../projects.ejs
+  template: ../assets/ejs/projects.ejs
   id: projects
   contents: 
     - ../projects.yml
