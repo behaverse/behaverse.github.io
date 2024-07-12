@@ -14,7 +14,7 @@
       href: https://github.com/morteza/CogPonder
 
 - title: CogEnv
-  subtitle: A reinforcement learning environment for cognitive tests
+  subtitle: Reinforcement learning environment for cognitive tests
   galaxies:
     - models
   order: 1
