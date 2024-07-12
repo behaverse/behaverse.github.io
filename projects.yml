@@ -4,7 +4,7 @@
     - models
   order: 2
   description: |
-    CogPonder is a flexible, differentiable model of cognitive control that is inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. CogPonder functionally decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model and decides when to terminate processing and output a response, thus producing both a response and response time."
+    Description: CogPonder is a flexible, differentiable model of cognitive control inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. It decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model. This controller decides when to terminate processing and output a response, thus producing both a response and response time.
   links:
     - title: Paper
       icon: bi file-text
@@ -19,7 +19,7 @@
     - models
   order: 1
   description: |
-    CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the exact same tests as in human studies. More specifically, typical reinforcement learning agents can be trained in CogEnv to perform tests that are commonly used in cognitive psychology, such as the N-Back task and the Stroop task. CogEnv is designed to be a flexible and extensible platform that can be used to study [a wide range of cognitive tests](/assessments/index.qmd) and to compare the performance of artificial agents to human participants.
+    CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the same tests used in human studies. It enables typical reinforcement learning agents to perform tasks commonly used in cognitive psychology, such as the N-Back and Stroop tests. CogEnv is designed to be a flexible and extensible platform for studying [a wide range of cognitive tests](assessments/index.qmd) and comparing the performance of artificial agents to human participants.
   links:
     - title: Paper
       icon: bi file-text
@@ -193,13 +193,14 @@
     - standards
   order: 4
   description: |
-    Currently, the procedures in behavioral experimental studies are described as text in research papers. We propose to extend BPMN to describe studies (i.e., the flow of participants across activities within a study) more formally. This allows to ensure completeness and consistency but also the use and development of new software tools (e.g., for visualizing studies or analyzing data).
+    Currently, the procedures in behavioral experimental studies are described as text in research papers. We propose to extend BPMN to formally describe experimental procedures (i.e., the flow of participants across activities within a study). This ensures completeness and consistency, and supports the development of new software tools (e.g., for visualizing studies or analyzing data).
   links:
     - title: Specification
       icon: bi info-circle
       href: /standards/study-flow.qmd
 
 - title: Batchman
+  subtitle: Automated data analysis execution
   galaxies:
     - tools
   order: 1
@@ -215,4 +216,4 @@
     - tools
   order: 2
   description: |
-    We developed a wide range of tools over the years, including a set of system monitoring tools that allow us to verify in real-time that the various systems within Behaverse are working properly, tools for quality checks and unit testing, deployment tools that allow us to quickly set up data collection servers, tools for reporting error messages when a game crashes, code to handle localization, and tools for the encryption and decryption of data, tools for extracting and transforming data, to name just a few. In general, these tools are designed to facilitate different aspects of the development and to automate as many steps as possible so that the overall system is more robust, reproducible and reusable.
+    Over the years, we have developed a variety of tools including system monitoring tools, quality checks, unit testing, deployment tools, error reporting mechanisms when a game crashes, localization, and data encryption/decryption utilities, and tools for extracting and transforming data, to name just a few. These tools facilitate development and automate processes, enhancing the robustness, reproducibility, and reusability of the overall system.
