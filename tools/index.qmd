@@ -2,8 +2,13 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-t-filled label=tools >}} Tools"
 listing:
-    include:
-        galaxies: tools
+  template: ../projects.ejs
+  id: projects
+  contents: 
+    - ../projects.yml
+  sort: "order asc"
+  include:
+    galaxies: tools
 format:
     html:
         body-classes: tools
@@ -16,13 +21,5 @@ Streamline and automate the boring stuff so more brain time can be dedicated to 
 
 ##  {{< bi puzzle >}} Projects
 
-### Batchman
-An R package (and proto-standard) to support the automated execution of data analysis code on a large number of files. A key goal is to separate the code that does the data analysis from the code that orchestrates the application of that code to data files and the management of the resulting output files. This project also offers ideas on how to organize data analysis code and output files to ensure traceability and reproducibility. 
-
-::: {.callout}
-You can learn more about this project [here](/tools/batchman.qmd).
+::: {.projects}
 :::
-
-### Misc
-
-We developed a wide range of tools over the years, including a set of system monitoring tools that allow us to verify in real-time that the various systems within Behaverse are working properly, tools for quality checks and unit testing, deployment tools that allow us to quickly set up data collection servers, tools for reporting error messages when a game crashes, code to handle localization, and tools for the encryption and decryption of data, tools for extracting and transforming data, to name just a few. In general, these tools are designed to facilitate different aspects of the development and to automate as many steps as possible so that the overall system is more robust, reproducible and reusable.

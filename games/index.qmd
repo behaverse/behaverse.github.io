@@ -1,8 +1,13 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-g-filled label=games >}} Games"
 listing:
-    include:
-        galaxies: games
+  template: ../projects.ejs
+  id: projects
+  contents: 
+    - ../projects.yml
+  sort: "order asc"
+  include:
+    galaxies: games
 format:
     html:
         body-classes: games
@@ -17,20 +22,5 @@ To make large-audience, high-quality video games a main driver of cognitive scie
 
 ##  {{< bi puzzle >}} Projects
 
-### Cognitive Training Game
-The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 
-
-::: {.callout}
-You can learn more about this project [here](/games/cognitive_training/).
+::: {#projects}
 :::
-
-### Mathemarmite: Educational game to help children count
-We released [**Mathemarmite**](https://mathemarmite.lu/) on the [Google Play](https://play.google.com/store/apps/details?id=org.xcit.mathemarmite&rdid=org.xcit.mathemarmite&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and [App Stores](https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8), a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. This game was nominated for Best social effect / game beyond entertainment at Game Connection 2019.
-
-
-::: {.callout}
-You can learn more about this project [here](https://mathemarmite.lu/).
-:::
-
-### Collaboration game prototypes
-We are developing of video game prototypes to study and potentially train collaboration skills. 

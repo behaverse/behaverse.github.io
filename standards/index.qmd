@@ -1,8 +1,13 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-s-filled label=standards >}} Standards"
 listing:
-    include:
-        galaxies: standards
+  template: ../projects.ejs
+  id: projects
+  contents: 
+    - ../projects.yml
+  sort: "order asc"
+  include:
+    galaxies: standards
 format:
     html:
         body-classes: standards
@@ -16,30 +21,5 @@ To support the sharing and reuse of data, to facilitate and enable the developme
 
 ##  {{< bi puzzle >}} Projects
 
-### L1 data standard for cognitive tests
-There are increasing amounts of behavioral data freely available on the internet with metadata standards making it easier to find them. However, there are large inconsistencies in the way those datasets are structured and stored, in the way their variables are named and formatted and even in what is meant by various common terms. These inconsistencies make it unnecessarily hard to reuse datasets and prevent the development of effective software tools and automatization.
-
-The L1 behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
-
-::: {.callout}
-You can learn more about this project [here](https://behaverse.github.io/data-model).
-:::
-
-### L1 data standard for questionnaires
-Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
-
-::: {.callout}
-You can learn more about this project [here](https://behaverse.github.io/data-model).
-:::
-
-
-### Event data standard (v0)
-We developed a standard for structuring event data across cognitive tests, questionnaires, and video games. We will likely iterate over this standard or adopt existing standards before sharing it publicly. 
-
-
-### StudyFlow standard (prototype)
-Currently, the procedures in behavioral experimental studies are described as text in research papers. We propose to extend BPMN to describe studies (i.e., the flow of participants across activities within a study) more formally. This allows to ensure completeness and consistency but also the use and development of new software tools (e.g., for visualizing studies or analyzing data).
-
-::: {.callout}
-You can learn more about this project [here](/standards/study-flow.qmd).
+::: {.projects}
 :::
