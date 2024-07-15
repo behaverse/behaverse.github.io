@@ -53,7 +53,7 @@
   description: |
     Behaverse comprises a large battery of cognitive tests covering a wide range of domains, including attentional, perceptual, cognitive and motor abilities. This battery consists of multiple cognitive assessments which are highly customizable (including the instructions, tutorials, and practice blocks). By configuring a specific cognitive assessment it is possible to instantiate many different cognitive tests.
   links:
-    - title: More info
+    - title: Learn more
       icon: bi info-circle
       href: /assessments/engine/
 
@@ -68,7 +68,7 @@
     
     We also curated a list of questionnaires that we modified to increase consistency and data quality. We also developed software to distribute our questionnaires online while being GDPR compliant, multilingual, and supporting the collection of event data (e.g., key strokes, mouse trajectory) using a consistent data model. Finally, we developed a questionnaire response data model to facilitate and streamline the analysis of questionnaire response data.
   links:
-    - title: More info
+    - title: Learn more
       icon: bi info-circle
       href: /assessments/questionnaires.qmd
 
@@ -90,7 +90,7 @@
   description: |
     The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 
   links:
-    - title: More info
+    - title: Learn more
       icon: bi info-circle
       href: /games/cognitive_training/
 
@@ -149,12 +149,11 @@
   description: |
     The Behaverse Data API offers solutions to find and download datasets that follow the Behaverse data standard. The data-api currently exists as a python library (an R version is in the planning). 
   links:
-    - title: Website
+    - title: Data API website
       icon: bi globe
       href: https://behaverse.github.io/data-api
 
-- title: L1 Data Standard
-  subtitle: for cognitive tests
+- title: L1 Data Standard for Cognitive Tests
   galaxies:
     - standards
   order: 1
@@ -163,19 +162,18 @@
     
     The L1 behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
   links:
-    - title: Website
+    - title: L1 standard website
       icon: bi globe
       href: https://behaverse.github.io/data-model
 
-- title: L1 Data Standard
-  subtitle: for questionnaires
+- title: L1 Data Standard for Questionnaires
   galaxies:
     - standards
   order: 2
   description: |
     Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
   links:
-    - title: Website
+    - title: L1 standard website
       icon: bi globe
       href: https://behaverse.github.io/data-model
 
@@ -207,7 +205,7 @@
   description: |
     An R package (and proto-standard) to support the automated execution of data analysis code on a large number of files. A key goal is to separate the code that does the data analysis from the code that orchestrates the application of that code to data files and the management of the resulting output files. This project also offers ideas on how to organize data analysis code and output files to ensure traceability and reproducibility.
   links:
-    - title: More info
+    - title: Learn more
       icon: bi info-circle
       href: /tools/batchman.qmd
 

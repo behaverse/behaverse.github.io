@@ -8,7 +8,11 @@ project:
 
 website:
   title: "Behaverse"
-  site-url: "https://behaverse.org" 
+  site-url: "https://behaverse.org"
+  google-analytics: "G-1920MH2W22"
+  cookie-consent:
+    type: implied
+    style: simple
   repo-url: https://github.com/behaverse/website 
   repo-actions: none
   page-footer:
