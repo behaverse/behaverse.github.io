@@ -122,7 +122,7 @@
   order: 3
   description: |
 
-    We developed the *Goal-Oriented Multi-Agent System (GOMAS)*, a conceptual framework designed to understand collaboration through games. *GOMAS* consists of five layers: 1) system and subsystems (architecture), 2) key components (parameter space), 3) potentiality of interactions (behavior space), 4) dynamics (i.e., gameplay), and 5) observation/measurement. Using this framework, we are creating video game prototypes to study and potentially train collaboration skills.
+    We have developed the *Goal-Oriented Multi-Agent System (GOMAS)*, a conceptual framework designed to understand collaboration through games. *GOMAS* consists of five layers: 1) system and subsystems (architecture), 2) key components (parameter space), 3) potentiality of interactions (behavior space), 4) dynamics (i.e., gameplay), and 5) observation/measurement. Using this framework, we are creating video game prototypes to study and potentially train collaboration skills.
     
     Our next steps involve first refining *GOMAS* and then analyzing game review corpora to explore the relationships between game design features, causes of collaboration effects, and potential outcomes. Ultimately, we plan to conduct scientific experiments with our collaboration games to study how changes in game design influence player behavior and collaboration outcomes.
 
