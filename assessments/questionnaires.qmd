@@ -1,23 +1,5 @@
 ---
 title: Questionnaires
 listing: false
-format:
-    html:
-        body-classes: assessment
+body-classes: assessments
 ---
-
-Behaverse is a collection of integrated projects and software systems designed to accelerate, integrate and scale-up cognitive science research to yield scientific discoveries and innovation while promoting best practices and open science. 
- 
-Behaverse comprises several “galaxies” which organize a collection of projects around a common theme. Behaverse is under continuous development: the amount of progress differs across projects, and some projects may exist only as prototypes or internal tools. 
-
-Below we present the main Behaverse galaxies and their main projects.
- 
-
-
-## A
-
-## B
-
-## C
-
-

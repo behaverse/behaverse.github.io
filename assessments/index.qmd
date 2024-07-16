@@ -12,9 +12,7 @@ listing:
   sort: "order asc"
   include:
     galaxies: assessments
-format:
-    html:
-        body-classes: assessments
+body-classes: assessments
 ---
 
 

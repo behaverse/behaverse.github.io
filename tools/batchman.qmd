@@ -1,9 +1,7 @@
 ---
 title: Batchman
 listing: false
-format:
-    html:
-        body-classes: tools
+body-classes: tools
 ---
 
 

@@ -12,9 +12,7 @@ listing:
   sort: "order asc"
   include:
     galaxies: games
-format:
-    html:
-        body-classes: games
+body-classes: games
 ---
 
 

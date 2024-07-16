@@ -10,9 +10,7 @@ listing:
   sort: "order asc"
   include:
     galaxies: standards
-format:
-    html:
-        body-classes: standards
+body-classes: standards
 ---
 
 

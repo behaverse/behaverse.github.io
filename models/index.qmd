@@ -10,9 +10,7 @@ listing:
   sort: "order asc"
   include:
     galaxies: models
-format:
-    html:
-        body-classes: models
+body-classes: models
 ---
 
 ## {{< bi eye >}} Vision
