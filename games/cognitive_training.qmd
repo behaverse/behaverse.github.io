@@ -12,7 +12,11 @@ Video games have an untapped potential to be harnessed as tools for cognitive as
 
 Behaverse Training Games aim to test within video games the most promising scientific hypotheses on human cognitive training. Games that stand the rigorous tests of science could then be made available to people within an engaging gaming experience across a wide range of devices.
 
-{{< video https://xcit.org/extras/behaverse-org/video/training/training_intro-lg-1080p.mp4 >}}
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_intro-lg-1080p.mp4">
+</video>
+```
 
 ## Compelling game experience for better science
 
@@ -27,13 +31,21 @@ In the Behaverse Training Games, participants play the role of a spaceship pilot
 From arid deserts to lush forests, participants explore rich and varied environments in their journey to uncover the mystery surrounding the planet.
 :::
 :::{#image}
-{{< video https://xcit.org/extras/behaverse-org/video/training/training_section1_part1-lg-1080p.mp4 >}}
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section1_part1-lg-1080p.mp4">
+</video>
+```
 :::
 ::::
 
 ::::{layout=[40,60]}
 :::{#image}
-{{< video https://xcit.org/extras/behaverse-org/video/training/training_section1_part2-lg-1080p.mp4 >}}
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section1_part2-lg-1080p.mp4">
+</video>
+```
 :::
 :::{#description}
 ### ...with engaging gameplay and visuals! {.text-end .unlisted}
