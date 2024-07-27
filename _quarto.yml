@@ -4,7 +4,6 @@ project:
   execute-dir: project
   resources:
     - "assessments/engine/**/*"
-    - "games/cognitive_training/**/*"
 
 website:
   title: "Behaverse"

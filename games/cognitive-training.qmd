@@ -1,9 +1,12 @@
 ---
-body-classes: games
+title: Games for Cognitive Training
 anchor-sections: false
 toc: false
 page-layout: full
 # TODO background-image: https://xcit.org/extras/behaverse-org/img/background_training.jpg
+format: 
+  html:
+    css: /assets/css/cognitive-training.css
 ---
 
 # Games for Cognitive Training
@@ -16,7 +19,10 @@ Behaverse Training Games aim to test within video games the most promising scien
 <video autoplay muted loop class="w-100">
     <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_intro-lg-1080p.mp4">
 </video>
+
 ```
+
+<br />
 
 ## Compelling game experience for better science
 
@@ -40,7 +46,7 @@ From arid deserts to lush forests, participants explore rich and varied environm
 ::::
 
 ::::{layout=[40,60]}
-:::{#image}
+:::{#video}
 ```{=html}
 <video autoplay muted loop class="w-100">
     <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section1_part2-lg-1080p.mp4">
@@ -56,8 +62,9 @@ We dedicate particular attention to the aesthetics of the game, creating and cur
 :::
 ::::
 
+
 ## Versatility through modular design
-We want our training games to be modular and customizable (as opposed to a “static” use-as-is game). This allows our games to serve as a research platform to explore a large range of scientific questions (see [Schmück et al., 2019](https://ieeexplore.ieee.org/document/8864551)).
+We want our training games to be modular and customizable, as opposed to a *static* use-as-is game. This allows our games to serve as a research platform to explore a large range of scientific questions (see [Schmück et al., 2019](https://ieeexplore.ieee.org/document/8864551)).
 
 The Behaverse Training Game involves two parallel gameplay components: a driving module where participants pilot the spaceship in the 3D game world, and a 2D HUD module overlayed on the screen, which requires participants to respond to signals emitted by the alien constructions.
 
@@ -81,17 +88,30 @@ Different versions of the Behaverse Training Game can be composed by selecting o
 ![The *Driving* component of the Behaverse Training Games involves navigating the spaceship through a succession of modular blocks of gameplay that can be pieced together in any order. Each block comprises a gameplay layer or “challenge”, and a visual layer or “scenery”. Both layers can be adapted independently.
 ](https://xcit.org/extras/behaverse-org/img/training/training_driving_trackpiece.jpg)
 
+<br />
+
 :::{layout-ncol="2"}
 
-::::{#left}
-{{< video https://xcit.org/extras/behaverse-org/video/training/training_section2_left-lg-1080p.mp4 >}}
-The type of challenge determines the cognitive demands of the driving: immobile collectibles or obstacles, constantly moving collectibles requiring constant trajectory adjustment, unpredictable obstacles coming from the ground and more.
+::::{#vid-section2-left-lg-1080p}
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section2_left-lg-1080p.mp4 ">
+</video>
+```
+<figcaption>The type of challenge determines the cognitive demands of the driving: immobile collectibles or obstacles, constantly moving collectibles requiring constant trajectory adjustment, unpredictable obstacles coming from the ground and more.</figcaption>
 ::::
-::::{#right}
-{{< video https://xcit.org/extras/behaverse-org/video/training/training_section2_right-lg-1080p.mp4 >}}
-Independently from the challenge, the scenery of the game can be flexibly changed to provide a varied visual environment without affecting the cognitive demands.
+
+::::{#vid-section2-right-lg-1080p}
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section2_right-lg-1080p.mp4">
+</video>
+```
+
+<figcaption>Independently from the challenge, the scenery of the game can be flexibly changed to provide a varied visual environment without affecting the cognitive demands.,</figcaption>
 ::::
 :::
+
 
 ## The science behind the game
 
@@ -100,7 +120,3 @@ Numerous studies have investigated the possibility of improving cognitive abilit
 While the empirical data collected so far seems solid, our understanding of the mechanisms involved in cognitive training remains rather limited. The Behaverse Training Games aim to advance our understanding of those mechanisms by translating scientific hypotheses into concrete game implementations that can be tested experimentally. Our games can be declined into multiple alternative versions, each tailored to test a specific hypothesis. All versions maintain the same core gameplay and visuals, ensuring they remain as comparable as possible, only differing by key experimental features.
 
 Intervention studies are challenging to conduct and there is a need for additional, well-powered experimental studies of this sort. By offering people a compelling gaming experience and allowing them to participate from the comfort of their homes, we aim to collect extensive and rich behavioral datasets that will allow us to better understand how cognitive enhancement works.
-
-
-
-

@@ -124,7 +124,7 @@
   links:
     - title: Learn more
       icon: bi info-circle
-      href: /games/cognitive_training/
+      href: /games/cognitive-training.qmd
 
 - title: Mathemarmite
   subtitle: Educational game to help children count
