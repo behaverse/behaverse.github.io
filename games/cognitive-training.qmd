@@ -1,7 +1,7 @@
 ---
 title: Games for Cognitive Training
 anchor-sections: false
-toc: false
+toc: false 
 page-layout: full
 # TODO background-image: https://xcit.org/extras/behaverse-org/img/background_training.jpg
 format: 
@@ -70,6 +70,8 @@ The Behaverse Training Game involves two parallel gameplay components: a driving
 
 Both of these components can be precisely parameterized and independently adjusted to load on targeted cognitive processes.
 
+<br />
+
 ### HUD modules
 
 Different versions of the Behaverse Training Game can be composed by selecting one of several alternative HUD modules, each targeting specific cognitive processes (see examples below).
@@ -85,10 +87,9 @@ Different versions of the Behaverse Training Game can be composed by selecting o
 
 ### Driving module
 
-![The *Driving* component of the Behaverse Training Games involves navigating the spaceship through a succession of modular blocks of gameplay that can be pieced together in any order. Each block comprises a gameplay layer or “challenge”, and a visual layer or “scenery”. Both layers can be adapted independently.
-](https://xcit.org/extras/behaverse-org/img/training/training_driving_trackpiece.jpg)
+The *Driving* component of the Behaverse Training Games involves navigating the spaceship through a succession of modular blocks of gameplay that can be pieced together in any order. Each block comprises a gameplay layer or "challenge", and a visual layer or "scenery". Both layers can be adapted independently.
 
-<br />
+![](https://xcit.org/extras/behaverse-org/img/training/training_driving_trackpiece.jpg)
 
 :::{layout-ncol="2"}
 
@@ -112,6 +113,7 @@ Different versions of the Behaverse Training Game can be composed by selecting o
 ::::
 :::
 
+<br />
 
 ## The science behind the game
 
@@ -120,3 +122,17 @@ Numerous studies have investigated the possibility of improving cognitive abilit
 While the empirical data collected so far seems solid, our understanding of the mechanisms involved in cognitive training remains rather limited. The Behaverse Training Games aim to advance our understanding of those mechanisms by translating scientific hypotheses into concrete game implementations that can be tested experimentally. Our games can be declined into multiple alternative versions, each tailored to test a specific hypothesis. All versions maintain the same core gameplay and visuals, ensuring they remain as comparable as possible, only differing by key experimental features.
 
 Intervention studies are challenging to conduct and there is a need for additional, well-powered experimental studies of this sort. By offering people a compelling gaming experience and allowing them to participate from the comfort of their homes, we aim to collect extensive and rich behavioral datasets that will allow us to better understand how cognitive enhancement works.
+
+<br />
+---
+<br />
+
+:::{#logos layout-ncol="3" layout-valign="center"}
+
+[![](https://xcit.org/extras/behaverse-org/img/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
+
+[![](/assets/img/fnr_logo_white.png){fig-align="center" style="height: 50px;"}](https://www.fnr.lu){target="_blank"}
+
+[![](https://xcit.org/extras/behaverse-org/img/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
+
+:::

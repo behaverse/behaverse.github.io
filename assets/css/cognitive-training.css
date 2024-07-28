@@ -15,6 +15,10 @@ a {
     background-color: #111111ef;
 }
 
+.navbar-title {
+    color: #ffffff;
+}
+
 #title-block-header {
     display: none;
 }
@@ -28,6 +32,7 @@ a {
     color: #E0E0E0;
     padding-left: 2rem;
     padding-right: 2rem;
+    border-radius: .5rem;
 }
 
 figcaption {
@@ -42,4 +47,13 @@ figcaption {
 h1, h2, h3, h4, h5, h6 {
     color: #ffffff;
     border-bottom-width: 0px !important;
+    margin-top: 1rem !important;
+}
+
+video, .figure img {
+    border-radius: .5rem;
+}
+
+#logos img {
+    border-radius: 0rem;
 }
