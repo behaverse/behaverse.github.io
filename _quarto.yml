@@ -17,7 +17,7 @@ website:
   page-footer:
     background: light
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    center: "&copy; 2024 [xCIT](https://xcit.org) &middot; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) &middot;	[About Us](/about.qmd)"
+    center: "&copy; 2024 [xCIT](https://xcit.org) &middot; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) &middot; [Cookies](#){#open_preferences_center} &middot; [About Us](/about.qmd)"
 
   navbar:
     logo: assets/img/behaverse_logo_purple.png
