@@ -12,7 +12,7 @@
     ![](/assets/img/cogponder_arch.png){
           fig-align=center
           fig-alt="CogPonder"
-          .lightbox description="CogPonder implementation architecture; see [the paper](https://2023.ccneuro.org/proceedings/0001148.pdf) for details."}
+          .lightbox description="CogPonder implementation architecture; see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) for details."}
     :::
     ::::
   links:
@@ -37,7 +37,7 @@
     ![](/assets/img/cogenv_arch.png){
           fig-align=center
           fig-alt="CogEnv"
-          .lightbox description="CogEnv architecture; see [the paper](https://2022.ccneuro.org/proceedings/0000205.pdf) for details."}
+          .lightbox description="CogEnv architecture; see [CogEnv paper](https://2022.ccneuro.org/proceedings/0000205.pdf) for details."}
     :::
     ::::
   links:
@@ -62,7 +62,7 @@
     ![](/assets/img/cogtext_graph.png){
           fig-align=center
           fig-alt="CogText Knowledge Graph"
-          .lightbox description="CogText knowledge graph links cognitive tasks and cognitive constructs; see [the paper](https://arxiv.org/abs/2203.11016) for details."}
+          .lightbox description="CogText knowledge graph links cognitive tasks and cognitive constructs; see [CogText paper](https://arxiv.org/abs/2203.11016) for details."}
     :::
     ::::
   links:
