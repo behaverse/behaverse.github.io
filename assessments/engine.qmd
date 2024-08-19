@@ -1,0 +1,56 @@
+---
+title: Cognitive Assessment
+anchor-sections: false
+toc: false 
+page-layout: full
+# TODO background-image: https://xcit.org/extras/behaverse-org/img/background_training.jpg
+format: 
+  html:
+    css: /assets/css/assessment-engine.css
+---
+
+# Cognitive Assessment
+
+
+```{=html}
+<video autoplay muted loop class="w-100">
+    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/tasks/assessment_intro-lg-1080p.mp4">
+</video>
+
+```
+
+Behaverse comprises a large battery of cognitive tests covering a wide range of domains, including attentional, perceptual, cognitive and motor abilities. This battery consists of multiple Cognitive Assessment Engines which are highly customizable (including the instructions, tutorials and practice blocks) and can instantiate many classic cognitive tests. The Behaverse Cognitive Assessment battery is GDPR compliant, multilingual, multiplatform and supports the collection of fine-grained behavioral data while being robust to network connectivity breaks.
+
+Below we showcase Cognitive Assessment Engines with examples of how they can be used to instantiate classic tests in cognitive psychology.
+
+
+<br />
+
+:::: {layout-nrow=4 layout-ncol=4 layout-valign="center"}
+
+:::{.fig-ds}
+![](https://xcit.org/extras/behaverse-org/img/tasks/DS.png){
+    fig-align=center
+    fig-alt="Symbol Span"
+    .lightbox
+    description="<h3>Symbol Span</h3>The symbol span test measures participants’ short term memory. After seeing a sequence of symbols, participants are asked to recall the sequence in order. The length of the sequence is adjusted to fit participants’ abilities.<br />This test engine can be parameterized to instantiate both forward and backward span tests using digits, letters or abstract symbols among others."
+}
+
+https://xcit.org/extras/behaverse-org/video/tasks/DS_480p.mp4
+
+
+:::
+::::
+
+---
+<br />
+
+:::{#logos layout-ncol="3" layout-valign="center"}
+
+[![](https://xcit.org/extras/behaverse-org/img/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
+
+[![](/assets/img/fnr_logo_white.png){fig-align="center" style="height: 50px;"}](https://www.fnr.lu){target="_blank"}
+
+[![](https://xcit.org/extras/behaverse-org/img/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
+
+:::

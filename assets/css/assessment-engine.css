@@ -1,0 +1,63 @@
+body {
+    background-color: #111111;
+	background-image: url('https://xcit.org/extras/behaverse-org/img/background_assessment.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+a {
+    color: #657DF5
+}
+
+.navbar, .nav-footer {
+    background-color: #111111ef;
+}
+
+.navbar-title {
+    color: #ffffff;
+}
+
+#title-block-header {
+    display: none;
+}
+
+.quarto-title-banner {
+    background-color: #111111dd;
+}
+
+.content {
+    background-color: #111111dd;
+    color: #E0E0E0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: .5rem;
+}
+
+figcaption {
+    color: #ced4d9 !important;
+}
+
+
+.quarto-layout-panel h3 {
+    margin-top: 0px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    border-bottom-width: 0px !important;
+    margin-top: 1rem !important;
+}
+
+.gslider h3 {
+    color: #111111;
+}
+
+video, .figure img {
+    border-radius: .5rem;
+}
+
+#logos img {
+    border-radius: 0rem;
+}

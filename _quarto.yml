@@ -41,7 +41,7 @@ website:
               url: https://github.com/behaverse/website/issues
     drafts:
         - assessments/questionnaires.qmd
-        - assessments/cognitive_tests.qmd
+        - assessments/cognitive-tests.qmd
         - data/datasets.qmd
         - standards/study-flow.qmd
         - tools/batchman.qmd
