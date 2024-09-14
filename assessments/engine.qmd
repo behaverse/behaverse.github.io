@@ -55,99 +55,99 @@ Below we showcase Cognitive Assessment Engines with examples of how they can be 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/DS_480p.mp4"
    class="glightbox" data-glightbox="description: .DS-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/DS.png" />
-  <span class="gl-caption">Symbol Span</span>
+  <span class="gl-caption text-center">Symbol Span</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/OOO_480p.mp4"
    class="glightbox" data-glightbox="description: .OOO-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/OOO.png" />
-  <span class="gl-caption">Deductive Reasoning</span>
+  <span class="gl-caption text-center">Deductive Reasoning</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/BM_480p.mp4"
    class="glightbox" data-glightbox="description: .BM-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/BM.png" />
-  <span class="gl-caption">Matrix Reasoning</span>
+  <span class="gl-caption text-center">Matrix Reasoning</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/SOS_480p.mp4"
    class="glightbox" data-glightbox="description: .SOS-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/SOS.png" />
-  <span class="gl-caption">Self-Ordered Search</span>
+  <span class="gl-caption text-center">Self-Ordered Search</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/OC_480p.mp4"
    class="glightbox" data-glightbox="description: .OC-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/OC.png" />
-  <span class="gl-caption">Ordered-Clicks</span>
+  <span class="gl-caption text-center">Ordered-Clicks</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/WO_480p.mp4"
    class="glightbox" data-glightbox="description: .WO-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/WO.png" />
-  <span class="gl-caption">Which One</span>
+  <span class="gl-caption text-center">Which One</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/BSAC_480p.mp4"
    class="glightbox" data-glightbox="description: .BSAC-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/BSAC.png" />
-  <span class="gl-caption">Spatial Attention Cueing</span>
+  <span class="gl-caption text-center">Spatial Attention Cueing</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/MOT_480p.mp4"
    class="glightbox" data-glightbox="description: .MOT-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/MOT.png" />
-  <span class="gl-caption">Multiple Object Tracking</span>
+  <span class="gl-caption text-center">Multiple Object Tracking</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/UFOV_480p.mp4"
    class="glightbox" data-glightbox="description: .UFOV-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/UFOV.png" />
-  <span class="gl-caption">Distributed Attention</span>
+  <span class="gl-caption text-center">Distributed Attention</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/SRM_480p.mp4"
    class="glightbox" data-glightbox="description: .SRM-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/SRM.png" />
-  <span class="gl-caption">Stimulus-Response Mapping</span>
+  <span class="gl-caption text-center">Stimulus-Response Mapping</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/PC_480p.mp4"
    class="glightbox" data-glightbox="description: .PC-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/PC.png" />
-  <span class="gl-caption">Polygon Comparison</span>
+  <span class="gl-caption text-center">Polygon Comparison</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/TH_480p.mp4"
    class="glightbox" data-glightbox="description: .TH-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/TH.png" />
-  <span class="gl-caption">Target Hit</span>
+  <span class="gl-caption text-center">Target Hit</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/SMC_480p.mp4"
    class="glightbox" data-glightbox="description: .SMC-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/SMC.png" />
-  <span class="gl-caption">Symbol Matrix Comparison</span>
+  <span class="gl-caption text-center">Symbol Matrix Comparison</span>
 </a>
 
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/BCS_480p.mp4"
    class="glightbox" data-glightbox="description: .BCS-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/BCS.png" />
-  <span class="gl-caption">Belval Card Sorting</span>
+  <span class="gl-caption text-center">Belval Card Sorting</span>
 </a>
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/RE_480p.mp4"
    class="glightbox" data-glightbox="description: .RE-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/RE.png" />
-  <span class="gl-caption">Sequence Match</span>
+  <span class="gl-caption text-center">Sequence Match</span>
 </a>
 
 
 <a href="https://xcit.org/extras/behaverse-org/video/tasks/NB_480p.mp4"
    class="glightbox" data-glightbox="description: .NB-desc">
   <img src="https://xcit.org/extras/behaverse-org/img/tasks/NB.png" />
-  <span class="gl-caption">N-back</span>
+  <span class="gl-caption text-center">N-back</span>
 </a>
 
 ::::
