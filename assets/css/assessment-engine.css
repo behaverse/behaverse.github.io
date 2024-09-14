@@ -61,3 +61,16 @@ video, .figure img {
 #logos img {
     border-radius: 0rem;
 }
+
+.gl-caption {
+    background-color: #000;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    bottom: 0;
+    color: #fff;
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+}

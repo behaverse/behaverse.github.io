@@ -85,7 +85,7 @@
   links:
     - title: Learn more
       icon: bi info-circle
-      href: /assessments/engine/
+      href: /assessments/engine.qmd
 
 - title: Questionnaires
   galaxies:
