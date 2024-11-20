@@ -3,7 +3,6 @@ title: Cognitive Assessment
 anchor-sections: false
 toc: false 
 page-layout: full
-# TODO background-image: https://xcit.org/extras/behaverse-org/img/background_training.jpg
 format: 
   html:
     css: /assets/css/assessment-engine.css
@@ -38,7 +37,7 @@ include-after-body:
 
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/tasks/assessment_intro-lg-1080p.mp4">
+    <source type="video/mp4" src="/assets/video/tasks/assessment_intro-lg-1080p.mp4">
 </video>
 
 ```
@@ -52,101 +51,101 @@ Below we showcase Cognitive Assessment Engines with examples of how they can be 
 
 :::: {layout-nrow=4 layout-ncol=4 layout-valign="center"}
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/DS_480p.mp4"
+<a href="/assets/video/tasks/DS_480p.mp4"
    class="glightbox" data-glightbox="description: .DS-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/DS.png" />
+  <img src="/assets/img/xcit/tasks/DS.png" />
   <span class="gl-caption text-center">Symbol Span</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/OOO_480p.mp4"
+<a href="/assets/video/tasks/OOO_480p.mp4"
    class="glightbox" data-glightbox="description: .OOO-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/OOO.png" />
+  <img src="/assets/img/xcit/tasks/OOO.png" />
   <span class="gl-caption text-center">Deductive Reasoning</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/BM_480p.mp4"
+<a href="/assets/video/tasks/BM_480p.mp4"
    class="glightbox" data-glightbox="description: .BM-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/BM.png" />
+  <img src="/assets/img/xcit/tasks/BM.png" />
   <span class="gl-caption text-center">Matrix Reasoning</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/SOS_480p.mp4"
+<a href="/assets/video/tasks/SOS_480p.mp4"
    class="glightbox" data-glightbox="description: .SOS-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/SOS.png" />
+  <img src="/assets/img/xcit/tasks/SOS.png" />
   <span class="gl-caption text-center">Self-Ordered Search</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/OC_480p.mp4"
+<a href="/assets/video/tasks/OC_480p.mp4"
    class="glightbox" data-glightbox="description: .OC-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/OC.png" />
+  <img src="/assets/img/xcit/tasks/OC.png" />
   <span class="gl-caption text-center">Ordered-Clicks</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/WO_480p.mp4"
+<a href="/assets/video/tasks/WO_480p.mp4"
    class="glightbox" data-glightbox="description: .WO-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/WO.png" />
+  <img src="/assets/img/xcit/tasks/WO.png" />
   <span class="gl-caption text-center">Which One</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/BSAC_480p.mp4"
+<a href="/assets/video/tasks/BSAC_480p.mp4"
    class="glightbox" data-glightbox="description: .BSAC-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/BSAC.png" />
+  <img src="/assets/img/xcit/tasks/BSAC.png" />
   <span class="gl-caption text-center">Spatial Attention Cueing</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/MOT_480p.mp4"
+<a href="/assets/video/tasks/MOT_480p.mp4"
    class="glightbox" data-glightbox="description: .MOT-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/MOT.png" />
+  <img src="/assets/img/xcit/tasks/MOT.png" />
   <span class="gl-caption text-center">Multiple Object Tracking</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/UFOV_480p.mp4"
+<a href="/assets/video/tasks/UFOV_480p.mp4"
    class="glightbox" data-glightbox="description: .UFOV-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/UFOV.png" />
+  <img src="/assets/img/xcit/tasks/UFOV.png" />
   <span class="gl-caption text-center">Distributed Attention</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/SRM_480p.mp4"
+<a href="/assets/video/tasks/SRM_480p.mp4"
    class="glightbox" data-glightbox="description: .SRM-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/SRM.png" />
+  <img src="/assets/img/xcit/tasks/SRM.png" />
   <span class="gl-caption text-center">Stimulus-Response Mapping</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/PC_480p.mp4"
+<a href="/assets/video/tasks/PC_480p.mp4"
    class="glightbox" data-glightbox="description: .PC-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/PC.png" />
+  <img src="/assets/img/xcit/tasks/PC.png" />
   <span class="gl-caption text-center">Polygon Comparison</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/TH_480p.mp4"
+<a href="/assets/video/tasks/TH_480p.mp4"
    class="glightbox" data-glightbox="description: .TH-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/TH.png" />
+  <img src="/assets/img/xcit/tasks/TH.png" />
   <span class="gl-caption text-center">Target Hit</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/SMC_480p.mp4"
+<a href="/assets/video/tasks/SMC_480p.mp4"
    class="glightbox" data-glightbox="description: .SMC-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/SMC.png" />
+  <img src="/assets/img/xcit/tasks/SMC.png" />
   <span class="gl-caption text-center">Symbol Matrix Comparison</span>
 </a>
 
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/BCS_480p.mp4"
+<a href="/assets/video/tasks/BCS_480p.mp4"
    class="glightbox" data-glightbox="description: .BCS-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/BCS.png" />
+  <img src="/assets/img/xcit/tasks/BCS.png" />
   <span class="gl-caption text-center">Belval Card Sorting</span>
 </a>
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/RE_480p.mp4"
+<a href="/assets/video/tasks/RE_480p.mp4"
    class="glightbox" data-glightbox="description: .RE-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/RE.png" />
+  <img src="/assets/img/xcit/tasks/RE.png" />
   <span class="gl-caption text-center">Sequence Match</span>
 </a>
 
 
-<a href="https://xcit.org/extras/behaverse-org/video/tasks/NB_480p.mp4"
+<a href="/assets/video/tasks/NB_480p.mp4"
    class="glightbox" data-glightbox="description: .NB-desc">
-  <img src="https://xcit.org/extras/behaverse-org/img/tasks/NB.png" />
+  <img src="/assets/img/xcit/tasks/NB.png" />
   <span class="gl-caption text-center">N-back</span>
 </a>
 
@@ -255,10 +254,10 @@ Below we showcase Cognitive Assessment Engines with examples of how they can be 
 
 :::{#logos layout-ncol="3" layout-valign="center"}
 
-[![](https://xcit.org/extras/behaverse-org/img/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
+[![](/assets/img/xcit/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
 
 [![](/assets/img/fnr_logo_white.png){fig-align="center" style="height: 50px;"}](https://www.fnr.lu){target="_blank"}
 
-[![](https://xcit.org/extras/behaverse-org/img/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
+[![](/assets/img/xcit/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
 
 :::

@@ -3,7 +3,6 @@ title: Games for Cognitive Training
 anchor-sections: false
 toc: false 
 page-layout: full
-# TODO background-image: https://xcit.org/extras/behaverse-org/img/background_training.jpg
 format: 
   html:
     css: /assets/css/cognitive-training.css
@@ -17,7 +16,7 @@ Behaverse Training Games aim to test within video games the most promising scien
 
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_intro-lg-1080p.mp4">
+    <source type="video/mp4" src="/assets/video/training/training_intro-lg-1080p.mp4">
 </video>
 
 ```
@@ -39,7 +38,7 @@ From arid deserts to lush forests, participants explore rich and varied environm
 :::{#image}
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section1_part1-lg-1080p.mp4">
+    <source type="video/mp4" src="/assets/video/training/training_section1_part1-lg-1080p.mp4">
 </video>
 ```
 :::
@@ -49,7 +48,7 @@ From arid deserts to lush forests, participants explore rich and varied environm
 :::{#video}
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section1_part2-lg-1080p.mp4">
+    <source type="video/mp4" src="/assets/video/training/training_section1_part2-lg-1080p.mp4">
 </video>
 ```
 :::
@@ -78,25 +77,25 @@ Different versions of the Behaverse Training Game can be composed by selecting o
 
 :::{layout-ncol="3"}
 
-![In the Monitoring module, participants search for specific symbols that may appear on the side panels, while ignoring other, distracting symbols.](https://xcit.org/extras/behaverse-org/img/training/training_section2_part1_left.jpg)
+![In the Monitoring module, participants search for specific symbols that may appear on the side panels, while ignoring other, distracting symbols.](/assets/img/xcit/training/training_section2_part1_left.jpg)
 
-![In the Switching module, participants detect each time a signal matches particular rules that randomly switch across time.](https://xcit.org/extras/behaverse-org/img/training/training_section2_part1_center.jpg)
+![In the Switching module, participants detect each time a signal matches particular rules that randomly switch across time.](/assets/img/xcit/training/training_section2_part1_center.jpg)
 
-![In the Reaction module, participants must react as fast as possible to a signal and press the key corresponding to where the signal appeared.](https://xcit.org/extras/behaverse-org/img/training/training_section2_part1_right.jpg)
+![In the Reaction module, participants must react as fast as possible to a signal and press the key corresponding to where the signal appeared.](/assets/img/xcit/training/training_section2_part1_right.jpg)
 :::
 
 ### Driving module
 
 The *Driving* component of the Behaverse Training Games involves navigating the spaceship through a succession of modular blocks of gameplay that can be pieced together in any order. Each block comprises a gameplay layer or "challenge", and a visual layer or "scenery". Both layers can be adapted independently.
 
-![](https://xcit.org/extras/behaverse-org/img/training/training_driving_trackpiece.jpg)
+![](/assets/img/xcit/training/training_driving_trackpiece.jpg)
 
 :::{layout-ncol="2"}
 
 ::::{#vid-section2-left-lg-1080p}
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section2_left-lg-1080p.mp4 ">
+    <source type="video/mp4" src="/assets/video/training/training_section2_left-lg-1080p.mp4">
 </video>
 ```
 <figcaption>The type of challenge determines the cognitive demands of the driving: immobile collectibles or obstacles, constantly moving collectibles requiring constant trajectory adjustment, unpredictable obstacles coming from the ground and more.</figcaption>
@@ -105,7 +104,7 @@ The *Driving* component of the Behaverse Training Games involves navigating the 
 ::::{#vid-section2-right-lg-1080p}
 ```{=html}
 <video autoplay muted loop class="w-100">
-    <source type="video/mp4" src="https://xcit.org/extras/behaverse-org/video/training/training_section2_right-lg-1080p.mp4">
+    <source type="video/mp4" src="/assets/video/training/training_section2_right-lg-1080p.mp4">
 </video>
 ```
 
@@ -129,10 +128,10 @@ Intervention studies are challenging to conduct and there is a need for addition
 
 :::{#logos layout-ncol="3" layout-valign="center"}
 
-[![](https://xcit.org/extras/behaverse-org/img/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
+[![](/assets/img/xcit/logofinaline.png){fig-align="right" style="width: 60px;"}](https://xcit.org){target="_blank"}
 
 [![](/assets/img/fnr_logo_white.png){fig-align="center" style="height: 50px;"}](https://www.fnr.lu){target="_blank"}
 
-[![](https://xcit.org/extras/behaverse-org/img/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
+[![](/assets/img/xcit/logo-uni-lu.png){fig-align="left" style="height: 64px;"}](https://www.uni.lu/en/){target="_blank"}
 
 :::
