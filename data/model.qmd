@@ -1,0 +1,12 @@
+---
+title: Behaverse Data Model
+format:
+  html:
+    minimal: true
+    include-in-header:
+        text: <meta http-equiv="refresh" content="0; url=https://behaverse.github.io/data-model" />
+aliases: 
+  - '/data-model'
+---
+
+Redirecting to the [BDM documentation](https://behaverse.github.io/data-model)...

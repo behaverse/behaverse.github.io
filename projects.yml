@@ -211,7 +211,7 @@
   links:
     - title: L1 standard website
       icon: bi globe
-      href: https://behaverse.github.io/data-model
+      href: https://behaverse.org/data-model
 
 - title: L1 Data Standard for Questionnaires
   galaxies:
@@ -222,7 +222,7 @@
   links:
     - title: L1 standard website
       icon: bi globe
-      href: https://behaverse.github.io/data-model
+      href: https://behaverse.org/data-model
 
 - title: Events Data Standard
   subtitle: version 0
