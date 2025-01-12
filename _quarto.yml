@@ -43,7 +43,7 @@ website:
         - assessments/questionnaires.qmd
         - assessments/cognitive-tests.qmd
         - data/datasets.qmd
-        - standards/study-flow.qmd
+        - standards/studyflow.qmd
         - tools/batchman.qmd
 
 format:

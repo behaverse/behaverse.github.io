@@ -242,7 +242,7 @@
   links:
     - title: Specification
       icon: bi info-circle
-      href: /standards/study-flow.qmd
+      href: /standards/studyflow.qmd
 
 - title: Batchman
   subtitle: Automated data analysis execution
