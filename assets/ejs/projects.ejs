@@ -3,7 +3,7 @@
 :::{.card-deck .grid}
     <% for (const item of items) { %>
 
-::: {.card .border-0 .shadow-sm .rounded .g-col-12}
+::: {.card .border-0 .g-col-12}
 :::: {.card-body}
 ::::: {.card-title}
 ### <%- item.title %>
@@ -22,8 +22,16 @@
 <% if (item.links && item.links.length > 0) { %>
 <% for (const link of item.links) { %>[<% if (link.icon) { %>{{< <%- link.icon %> >}} <% } %> <%- link.title %>](<%- link.href %>){.card-link} <% }%><% } %>
 
+::::: {.card-text}
+<% if (item.media) { %>
+<%= item.media %>
+<% } %>
+:::::
+
 ::::
 :::
+
+<hr class="g-col-12"/>
 
 <% } %>
 

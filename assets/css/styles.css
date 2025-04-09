@@ -15,58 +15,56 @@ body {
     color: #5A00C7;  /* primary purple for better contrast */
 }
 
+h3 {
+  color: #44403c;  /* primary black for better contrast */
+}
+
+h5 {
+  color: #57534e;
+}
+
+hr {
+  width: 25%;
+  margin: auto;
+  height: 1px;
+  color: #a8a29e;
+}
+
 body.about .content a, a.card-link {
   text-decoration: none;  /* remove underline from links in the about page */
 }
 
-body.assessments h1, body.assessments h2, body.assessments h3,
+body.assessments h1, body.assessments h2,
 span:has(> *[aria-label="assessments"]) {
   color: #C40000;  /* deep red for better readability */
 }
-body.assessments .card {
-  border-left: 3px solid #C4000033 !important;
-}
 
-body.models h1, body.models h2, body.models h3,
+body.models h1, body.models h2,
 span:has(> *[aria-label="models"]) {
   color: #00B884;  /* cool teal for better readability and distinction */
 }
-body.models .card {
-  border-left: 3px solid #00B88433 !important;
-}
 
-body.data h1, body.data h2, body.data h3,
+body.data h1, body.data h2,
 span:has(> *[aria-label="data"]) {
   color: #CCAC00;  /* gold yellow for a softer look. */
 }
-body.data .card {
-  border-left: 3px solid #CCAC0033 !important;
-}
 
-body.games h1, body.games h2, body.games h3,
+
+body.games h1, body.games h2,
 span:has(> *[aria-label="games"]),
 a:has(> *[aria-label="games"])
 {
   color:#3A4BC7;  /* soft blue for better readability */
 }
-body.games .card {
-  border-left: 3px solid #3A4BC733 !important;
-}
 
-body.standards h1, body.standards h2, body.standards h3,
+body.standards h1, body.standards h2,
 span:has(> *[aria-label="standards"]),
 a:has(> *[aria-label="standards"])
 {
   color: #D100B5;  /* bright pink for better readability */
 }
-body.standards .card {
-  border-left: 3px solid #D100B533 !important;
-}
 
 body.tools h1, body.tools h2, body.tools h3,
 span:has(> *[aria-label="tools"]) {
   color: #555555;  /* neutral gray */
-}
-body.tools .card {
-  border-left: 3px solid #55555533 !important;
 }

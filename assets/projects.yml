@@ -86,6 +86,9 @@
     - title: Learn more
       icon: bi info-circle
       href: /assessments/engine.qmd
+  media: |
+    {{< video /assets/video/tasks/assessment_intro-lg-1080p.mp4 >}}
+
 
 - title: Questionnaires
   galaxies:
@@ -107,7 +110,7 @@
     - assessments
   order: 3
   description: |
-    Video games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) section of this website.
+    Video games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) galaxy of this website.
   links:
     - title: Games
       icon: iconify tabler:hexagon-letter-g-filled label=games
@@ -120,11 +123,12 @@
   description: |
     The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 
 
-    {{< video /assets/video/training/training_intro-lg-1080p.mp4 >}}
   links:
     - title: Learn more
       icon: bi info-circle
       href: /games/cognitive-training.qmd
+  media: |
+    {{< video /assets/video/training/training_intro-lg-1080p.mp4 >}}
 
 - title: Mathemarmite
   subtitle: Educational game to help children count
@@ -132,9 +136,7 @@
     - games
   order: 3
   description: |
-    *Mathemarmite* is a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. Our game was nominated for Best social effect / game beyond entertainment at [Game Connection 2019](https://www.game-connection.com/game-connection-europe-2019-development-awards/).
-    
-    {{< video https://www.youtube.com/embed/pMCAGSVimeE title='Mathemarmite Trailer' >}}
+    *Mathemarmite* is a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. Our game was nominated for Best social effect / game beyond entertainment at [Game Connection 2019](https://www.game-connection.com/game-connection-europe-2019-development-awards/).    
   links:
     - title: Website
       icon: bi globe
@@ -145,6 +147,8 @@
     - title: App Store
       icon: bi apple
       href: https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8
+  media: |
+    {{< video https://www.youtube.com/embed/pMCAGSVimeE title='Mathemarmite Trailer' >}}
 
 - title: Collaboration Games
   galaxies:
@@ -154,17 +158,17 @@
     We have developed the *Goal-Oriented Multi-Agent System (GOMAS)*, a conceptual framework designed to understand collaboration through games. *GOMAS* consists of five layers: 1) system and subsystems (architecture), 2) key components (parameter space), 3) potentiality of interactions (behavior space), 4) dynamics (i.e., gameplay), and 5) observation/measurement. Using this framework, we are creating video game prototypes to study and potentially train collaboration skills.
     
     Our next steps involve first refining *GOMAS* and then analyzing game review corpora to explore the relationships between game design features, causes of collaboration effects, and potential outcomes. Ultimately, we plan to conduct scientific experiments to study how changes in game design influence player behavior and collaboration outcomes.
-
+  media: |
     ::: {layout-nrow=1 layout-ncol=2 layout-valign="center"}
     ![](/assets/img/collaboration_game_01.gif){
-      fig-align=center
-      fig-alt="Cyberball Animation"
-      .lightbox group="collaboration" description="Collaboration game prototype 1"}
+    fig-align=center
+    fig-alt="Cyberball Animation"
+    .lightbox group="collaboration" description="Collaboration game prototype 1"}
 
     ![](/assets/img/collaboration_game_02.png){
-      fig-align=center
-      fig-alt="Collaboration Game 2 Prototype"
-      .lightbox group="collaboration" description="Collaboration game prototype 2"}
+    fig-align=center
+    fig-alt="Collaboration Game 2 Prototype"
+    .lightbox group="collaboration" description="Collaboration game prototype 2"}
     :::
 
 - title: Data Standards

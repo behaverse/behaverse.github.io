@@ -1,20 +1,19 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-a-filled label=assessments >}} Assessments"
-abstract: |
-  Assessments are activities designed by researchers to support the valid and reliable quantification of the psychological traits, abilities, and states of the people completing those activities. 
-  
-  Assessments comprise most prominently (but not exclusively) computerized cognitive tests (e.g., memorizing a sequence of digits in the digit span test) and questionnaires (e.g., the big-5 personality questionnaire). 
 listing:
   template: ../assets/ejs/projects.ejs
   id: projects
   contents: 
-    - ../projects.yml
+    - ../assets/projects.yml
   sort: "order asc"
   include:
     galaxies: assessments
 body-classes: assessments
 ---
 
+Assessments are activities designed by researchers to support the valid and reliable quantification of the psychological traits, abilities, and states of the people completing those activities. 
+  
+Assessments comprise most prominently (but not exclusively) computerized cognitive tests (e.g., memorizing a sequence of digits in the digit span test) and questionnaires (e.g., the big-5 personality questionnaire). 
 
 ## {{< bi eye >}} Vision
 The ultimate goal for Assessments is to build a solid understanding of the design of instruments and their relationships to cognition, user experience and behavior. It entails creating a curated collection of generative instruments that allow a comprehensive assessment of human cognition, experience and behavior.

@@ -1,17 +1,16 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-t-filled label=tools >}} Tools"
-abstract: |
-  Tools galaxy is a collection of software systems that are used transversally within Behaverse. Some of these tools may have a general use and could be valuable beyond Behaverse.
 listing:
   template: ../assets/ejs/projects.ejs
   id: projects
   contents: 
-    - ../projects.yml
+    - ../assets/projects.yml
   sort: "order asc"
   include:
     galaxies: tools
 body-classes: tools
 ---
+Tools galaxy is a collection of software systems that are used transversally within Behaverse. Some of these tools may have a general use and could be valuable beyond Behaverse.
 
 ## {{< bi eye >}} Vision
 Streamline and automate the boring stuff so more brain time can be dedicated to scientific research.
