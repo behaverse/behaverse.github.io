@@ -1,0 +1,22 @@
+meta:
+  name: Behaverse
+  link: https://behaverse.org
+
+logo:
+  large: "assets/img/behaverse_logo_purple.png"
+
+color:
+  palette: 
+    behaverse-purple: "#4700BA"
+
+typography:
+  fonts:
+    - family: "IBM Plex Sans"
+      source: google
+  base: "IBM Plex Sans"
+  headings:
+    family: "IBM Plex Sans"
+    weight: bold
+  link: 
+   decoration: none
+   color: behaverse-purple
