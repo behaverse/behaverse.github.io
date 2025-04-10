@@ -1,40 +1,52 @@
 <% if (items && items.length > 0) { %>
 
-:::{.card-deck .grid}
-    <% for (const item of items) { %>
+<div class="card-deck grid">
 
-::: {.card .border-0 .g-col-12}
-:::: {.card-body}
-::::: {.card-title}
+<% for (const item of items) { %>
+
+<div class="card border-0 g-col-12" <%= metadataAttrs(item) %>>
+<div class="card-body">
+
+<div class="card-title">
 ### <%- item.title %>
 <% if (item.subtitle) { %>
-:::::: {.card-subtitle .text-muted}
+<div class="card-subtitle text-muted">
 ##### <%- item.subtitle %>
-::::::
+</div> <!-- .card-subtitle -->
 <% } %>
-:::::
+</div> <!-- .card-title -->
 
-::::: {.card-text}
+<div class="card-text description">
 <%= item.description %>
-:::::
+</div> <!-- .description -->
 
 
 <% if (item.links && item.links.length > 0) { %>
 <% for (const link of item.links) { %>[<% if (link.icon) { %>{{< <%- link.icon %> >}} <% } %> <%- link.title %>](<%- link.href %>){.card-link} <% }%><% } %>
 
-::::: {.card-text}
-<% if (item.media) { %>
-<%= item.media %>
-<% } %>
-:::::
+<div class="card-text media">
 
-::::
+<% if (item.media && item.media.images && item.media.images.length >= 1) { %>
+::: {layout-nrow=1 layout-ncol=<%-item.media.images.length %> layout-valign="center"}
+<% for (const image of item.media.images) { %>
+![](<%- image.src %>){fig-align=center fig-alt="<%= image.alt %>" .lightbox group="collaboration" description="<%- image.caption %>"}
+<% } %>
 :::
+<% } %> <!-- images > 1-->
+
+<% if (item.media && item.media.videos && item.media.videos.length == 1) { %>
+{{< video <%- item.media.videos[0] %> >}}  <!-- FIXME only one video is supported -->
+<% } %> <!-- videos > -->
+
+</div> <!-- .media -->
+
+</div> <!-- .card-body -->
+</div> <!-- .card -->
 
 <hr class="g-col-12"/>
 
 <% } %>
 
-:::
+</div> <!-- .card-deck.grid -->
 
 <% } %>

@@ -9,8 +9,9 @@ links:
   - title: Learn more
     icon: bi info-circle
     href: /projects/cognitive-tests.qmd
-media: |
-  {{< video /assets/video/tasks/assessment_intro-lg-1080p.mp4 >}}
+media:
+  videos:
+    - /assets/video/tasks/assessment_intro-lg-1080p.mp4
 anchor-sections: false
 toc: false 
 page-layout: full

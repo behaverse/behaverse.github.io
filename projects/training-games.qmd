@@ -9,8 +9,9 @@ links:
   - title: Learn more
     icon: bi info-circle
     href: /projects/training-games.qmd
-media: |
-  {{< video /assets/video/training/training_intro-lg-1080p.mp4 >}}
+media:
+  videos:
+    - /assets/video/training/training_intro-lg-1080p.mp4
 anchor-sections: false
 toc: false 
 page-layout: full

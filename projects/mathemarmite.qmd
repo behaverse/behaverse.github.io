@@ -16,6 +16,8 @@ links:
   - title: App Store
     icon: bi apple
     href: https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8
-media: |
-  {{< video https://www.youtube.com/embed/pMCAGSVimeE title='Mathemarmite Trailer' >}}
+media:
+  videos:
+    - https://www.youtube.com/embed/pMCAGSVimeE
+      # title: "Mathemarmite Trailer"
 ---

@@ -7,11 +7,10 @@ order: 2
 description: |
   CogPonder is a flexible, differentiable model of cognitive control inspired by the Test-Operate-Test-Exit (TOTE) architecture in psychology and the PonderNet framework in deep learning. It decouples the act of control from the controlled processes by introducing a controller that wraps around any end-to-end deep learning model. This controller decides when to terminate processing and output a response, thus producing both a response and response time.
 media:
-  - |
-    ![](/assets/img/cogponder_arch.png){
-    fig-align=center
-    fig-alt="CogPonder"
-    .lightbox description="CogPonder implementation architecture; see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) for details."}
+  images:
+    - src: /assets/img/cogponder_arch.png
+      alt: CogPonder
+      caption: CogPonder architecture; see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) for details.
 links:
   - title: Paper
     icon: bi file-text
