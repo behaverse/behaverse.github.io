@@ -1,13 +1,13 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-a-filled label=assessments >}} Assessments"
 listing:
-  template: ../assets/ejs/projects.ejs
+  template: ../assets/ejs/project-card.ejs
   id: projects
   contents: 
-    - ../assets/projects.yml
+    - ../projects/*
   sort: "order asc"
   include:
-    galaxies: assessments
+    categories: assessments
 body-classes: assessments
 ---
 

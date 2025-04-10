@@ -1,0 +1,13 @@
+---
+order: 1
+title: Batchman
+subtitle: Automated data analysis execution
+categories:
+  - tools
+description: |
+  An R package (and proto-standard) to support the automated execution of data analysis code on a large number of files. A key goal is to separate the code that does the data analysis from the code that orchestrates the application of that code to data files and the management of the resulting output files. This project also offers ideas on how to organize data analysis code and output files to ensure traceability and reproducibility.
+links:
+  - title: Learn more
+    icon: bi info-circle
+    href: /projects/batchman.qmd
+---

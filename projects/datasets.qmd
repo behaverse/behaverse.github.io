@@ -1,0 +1,12 @@
+---
+title: Datasets Library
+categories:
+  - data
+order: 2
+description: |
+  We are developing a curated list of datasets, all formatted according to Behaverse data standards. These datasets may be used for additional analysis, for benchmarking computational models and for developing multitask models among other things.
+links:
+  - title: Datasets
+    icon: bi database
+    href: /projects/datasets.qmd
+---

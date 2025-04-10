@@ -1,0 +1,25 @@
+---
+title: CogText
+subtitle: Linking theories and methods in cognitive sciences
+categories:
+  - models
+order: 3
+description: |
+  We used large language models to parse a large corpus of scientific documents about cognitive control and investigate the meaning and relationships between cognitive constructs on the one hand, and assessment instruments (i.e., cognitive tests) on the other. CogText performs automated text analyses on 385,705 scientific texts and creates a joint representation of cognitive control tests and constructs.
+media:
+  - |
+    ![](/assets/img/cogtext_graph.png){
+    fig-align=center
+    fig-alt="CogText Knowledge Graph"
+    .lightbox description="CogText knowledge graph links cognitive tasks and cognitive constructs; see [CogText paper](https://arxiv.org/abs/2203.11016) for details."}
+links:
+  - title: Paper
+    icon: bi file-text
+    href: https://arxiv.org/abs/2203.11016
+  - title: GitHub
+    icon: bi github
+    href: https://github.com/morteza/CogText
+  - title: Dataset
+    icon: bi database
+    href: https://huggingface.co/datasets/morteza/cogtext
+---

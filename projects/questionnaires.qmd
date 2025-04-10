@@ -1,0 +1,16 @@
+---
+title: Questionnaires
+categories:
+  - assessments
+order: 2
+description: |
+  Asking people questions is a major research method in behavioral and social sciences, be it via standardized questionnaires (e.g., a personality questionnaire) or context sensitive, targeted questions (e.g., experience sampling).
+      
+  We created a questionnaire data model (decoupling the data structures and backend from the survey viewer). This allows us to display questions on different devices (e.g., survey in a web browser, an experience sampling prompt within a mobile video game) while maintaining coherent data structures, which greatly facilitates their processing and subsequent analyses.
+      
+  We also curated a list of questionnaires that we modified to increase consistency and data quality. We also developed software to distribute our questionnaires online while being GDPR compliant, multilingual, and supporting the collection of event data (e.g., key strokes, mouse trajectory) using a consistent data model. Finally, we developed a questionnaire response data model to facilitate and streamline the analysis of questionnaire response data.
+links:
+  - title: Learn more
+    icon: bi info-circle
+    href: /assessments/questionnaires.qmd
+---

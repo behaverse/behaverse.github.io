@@ -1,13 +1,13 @@
 ---
 title: "{{< iconify tabler:hexagon-letter-m-filled label=models >}} Models"
 listing:
-  template: ../assets/ejs/projects.ejs
+  template: ../assets/ejs/project-card.ejs
   id: projects
   contents: 
-    - ../assets/projects.yml
+    - ../projects/*
   sort: "order asc"
   include:
-    galaxies: models
+    categories: models
 body-classes: models
 ---
 

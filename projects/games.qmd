@@ -1,0 +1,12 @@
+---
+title: Games
+categories:
+  - assessments
+order: 3
+description: |
+  Video games that collect behavioral data can support various forms of assessment. To learn more about our projects in this domain, visit the [Games](/games/index.qmd) galaxy of this website.
+links:
+  - title: Games
+    icon: iconify tabler:hexagon-letter-g-filled label=games
+    href: /games/index.qmd
+---

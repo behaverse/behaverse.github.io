@@ -1,0 +1,21 @@
+---
+title: Mathemarmite
+subtitle: Educational game to help children count
+categories:
+  - games
+order: 3
+description: |
+  *Mathemarmite* is a mobile video game for 3-6 year old children, designed to study and improve early mathematical (in particular counting) and cognitive abilities. Our game was nominated for Best social effect / game beyond entertainment at [Game Connection 2019](https://www.game-connection.com/game-connection-europe-2019-development-awards/).
+links:
+  - title: Website
+    icon: bi globe
+    href: https://mathemarmite.lu/
+  - title: Google Play
+    icon: bi google-play
+    href: https://play.google.com/store/apps/details?id=org.xcit.mathemarmite&rdid=org.xcit.mathemarmite&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+  - title: App Store
+    icon: bi apple
+    href: https://itunes.apple.com/us/app/mathemarmite/id1440061165?ls=1&mt=8
+media: |
+  {{< video https://www.youtube.com/embed/pMCAGSVimeE title='Mathemarmite Trailer' >}}
+---

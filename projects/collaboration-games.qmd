@@ -1,0 +1,22 @@
+---
+title: Collaboration Games
+categories:
+  - games
+order: 3
+description: |
+  We have developed the *Goal-Oriented Multi-Agent System (GOMAS)*, a conceptual framework designed to understand collaboration through games. *GOMAS* consists of five layers: 1) system and subsystems (architecture), 2) key components (parameter space), 3) potentiality of interactions (behavior space), 4) dynamics (i.e., gameplay), and 5) observation/measurement. Using this framework, we are creating video game prototypes to study and potentially train collaboration skills.
+    
+  Our next steps involve first refining *GOMAS* and then analyzing game review corpora to explore the relationships between game design features, causes of collaboration effects, and potential outcomes. Ultimately, we plan to conduct scientific experiments to study how changes in game design influence player behavior and collaboration outcomes.
+media: |
+  ::: {layout-nrow=1 layout-ncol=2 layout-valign="center"}
+  ![](/assets/img/collaboration_game_01.gif){
+  fig-align=center
+  fig-alt="Cyberball Animation"
+  .lightbox group="collaboration" description="Collaboration game prototype 1"}
+
+  ![](/assets/img/collaboration_game_02.png){
+  fig-align=center
+  fig-alt="Collaboration Game 2 Prototype"
+  .lightbox group="collaboration" description="Collaboration game prototype 2"}
+  :::
+---

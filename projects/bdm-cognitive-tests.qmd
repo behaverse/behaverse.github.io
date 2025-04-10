@@ -1,0 +1,15 @@
+---
+order: 1
+title: Data Standard for Cognitive Tests
+categories:
+  - standards
+description: |
+  There are increasing amounts of behavioral data freely available on the internet with metadata standards making it easier to find them. However, there are large inconsistencies in the way those datasets are structured and stored, in the way their variables are named and formatted and even in what is meant by various common terms. These inconsistencies make it unnecessarily hard to reuse datasets and prevent the development of effective software tools and automatization.
+    
+  The behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
+
+links:
+  - title: BDM Website
+    icon: bi globe
+    href: https://behaverse.org/data-model
+---

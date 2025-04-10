@@ -1,13 +1,13 @@
 ---
 title:  "{{< iconify tabler:hexagon-letter-g-filled label=games >}} Games"
 listing:
-  template: ../assets/ejs/projects.ejs
+  template: ../assets/ejs/project-card.ejs
   id: projects
   contents: 
-    - ../assets/projects.yml
+    - ../projects/*
   sort: "order asc"
   include:
-    galaxies: games
+    categories: games
 body-classes: games
 ---
 
