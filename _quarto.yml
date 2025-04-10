@@ -39,12 +39,6 @@ website:
             - icon: bug
               text: Report an Issue
               url: https://github.com/behaverse/website/issues
-    drafts:
-        - assessments/questionnaires.qmd
-        - assessments/cognitive-tests.qmd
-        - data/datasets.qmd
-        - standards/studyflow.qmd
-        - tools/batchman.qmd
 
 format:
   html:

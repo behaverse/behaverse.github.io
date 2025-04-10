@@ -5,7 +5,7 @@ subtitle: Reinforcement learning environment for cognitive tests
 categories:
     - models
 description: |
-  CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the same tests used in human studies. It enables typical reinforcement learning agents to perform tasks commonly used in cognitive psychology, such as the N-Back and Stroop tests. CogEnv is designed to be a flexible and extensible platform for studying [a wide range of cognitive tests](/assessments/engine.qmd) and comparing the performance of artificial agents to human participants.
+  CogEnv is a virtual environment based on [AndroidEnv](https://arxiv.org/abs/2105.13231) that allows artificial agents to complete the same tests used in human studies. It enables typical reinforcement learning agents to perform tasks commonly used in cognitive psychology, such as the N-Back and Stroop tests. CogEnv is designed to be a flexible and extensible platform for studying [a wide range of cognitive tests](/projects/cognitive-tests.qmd) and comparing the performance of artificial agents to human participants.
 media:
   - |
     ::: {layout-nrow=1 layout-ncol=1 layout-valign="center"}

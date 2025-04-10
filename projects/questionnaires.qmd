@@ -12,5 +12,5 @@ description: |
 links:
   - title: Learn more
     icon: bi info-circle
-    href: /assessments/questionnaires.qmd
+    href: /projects/questionnaires.qmd
 ---
