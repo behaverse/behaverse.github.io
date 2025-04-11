@@ -1,0 +1,13 @@
+---
+order: 5
+title: Studyflow
+subtitle: prototype
+categories:
+  - standards
+description: |
+  The procedures in behavioral experimental studies are commonly described as text in research papers. We propose to extend BPMN to formally describe experimental procedures (i.e., the flow of participants across activities within a study). This ensures completeness and consistency, and supports the development of new software tools (e.g., for visualizing studies or analyzing data).
+links:
+  - title: Specification
+    icon: bi info-circle
+    href: https://behaverse.org/data-model/spec/general/studyflows
+---

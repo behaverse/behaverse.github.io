@@ -1,9 +1,13 @@
 ---
-order: 3
+order: 4
 title: Events Data Standard
 subtitle: Harmonizing raw data
 description: |
   We developed a standard for structuring event data across cognitive tests, questionnaires, and video games. We will likely iterate over this standard or adopt existing standards before sharing it publicly.  
 categories:
   - standards
+links:
+  - title: Specifications
+    icon: bi globe
+    href: https://behaverse.org/data-model/spec/events/
 ---

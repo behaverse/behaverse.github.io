@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: Data Standard for Cognitive Tests
 categories:
   - standards
@@ -9,7 +9,7 @@ description: |
   The behavioral data model defines concepts and best practices regarding the naming and structuring as well as coherent data models for cognitive tests.
 
 links:
-  - title: BDM Website
+  - title: Specifications
     icon: bi globe
-    href: https://behaverse.org/data-model
+    href: https://behaverse.org/data-model/spec/
 ---
