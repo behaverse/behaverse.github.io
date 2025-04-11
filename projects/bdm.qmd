@@ -7,6 +7,9 @@ categories:
 description: |
   A major challenge in behavioral and cognitive sciences is to define a standardized way of structuring and naming data so as to facilitate its processing. We dedicated a lot of effort in defining such standards for different types of data.
 links:
+  - title: Behaverse Data Model (BDM)
+    icon: bi globe
+    href: https://behaverse.org/data-model/
   - title: Standards
     icon: iconify tabler:hexagon-letter-s-filled label=standards
     href: /standards/index.qmd
