@@ -1,6 +1,6 @@
 ---
 order: 5
-title: Studyflow
+title: Studyflows
 subtitle: prototype
 categories:
   - standards
@@ -10,4 +10,7 @@ links:
   - title: Specification
     icon: bi globe
     href: https://behaverse.org/data-model/spec/general/studyflows
+  - title: Studyflow Modeler
+    icon: bi bounding-box
+    href: https://behaverse.org/studyflow-modeler
 ---
