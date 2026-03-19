@@ -209,7 +209,7 @@ Below we showcase Cognitive Assessment Engines with examples of how they can be 
 <div class="glightbox-desc PC-desc">
   <h3>Polygon Comparison</h3>
   <p>This engine supports tasks that require participants to compare two visual shapes. This example shows a variant of the mental rotation test: participants are shown two polygons with one of the polygons being randomly rotated and possibly distorted. Participants need to mentally rotate the polygons to determine whether or not they are the same.</p>
-	<p>This engine supports multiple tests focusing on perceptual abilities (e.g., comparing shapes in the presence of distractors).</p>
+  <p>This engine supports multiple tests focusing on perceptual abilities (e.g., comparing shapes in the presence of a distractor).</p>
 </div>
 
 <div class="glightbox-desc TH-desc">
