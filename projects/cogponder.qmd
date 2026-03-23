@@ -13,9 +13,9 @@ media:
       caption: CogPonder architecture; see [CogPonder paper](https://2023.ccneuro.org/proceedings/0001148.pdf) for details.
 links:
   - title: Paper
-    icon: bi file-text
+    icon: iconify bi:file-text
     href: https://2023.ccneuro.org/proceedings/0001148.pdf
   - title: GitHub
-    icon: bi github
+    icon: iconify bi:github
     href: https://github.com/morteza/CogPonder
 ---

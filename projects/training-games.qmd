@@ -7,7 +7,7 @@ description: |
   The scientific literature has highlighted multiple hypotheses to explain cognitive training. The Behaverse cognitive training game attempts to translate those hypotheses into concrete video game mediated interventions and test their efficacy in improving cognitive abilities. 
 links:
   - title: Learn more
-    icon: bi info-circle
+    icon: iconify bi:info-circle
     href: /projects/training-games.qmd
 media:
   videos:

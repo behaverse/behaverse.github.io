@@ -10,6 +10,6 @@ description: |
 
 links:
   - title: Specifications
-    icon: bi globe
+    icon: iconify bi:globe
     href: https://behaverse.org/data-model/spec/
 ---

@@ -15,10 +15,10 @@ Assessments are activities designed by researchers to support the valid and reli
   
 Assessments comprise most prominently (but not exclusively) computerized cognitive tests (e.g., memorizing a sequence of digits in the digit span test) and questionnaires (e.g., the big-5 personality questionnaire). 
 
-## {{< bi eye >}} Vision
+## {{< iconify bi:eye >}} Vision
 The ultimate goal for Assessments is to build a solid understanding of the design of instruments and their relationships to cognition, user experience and behavior. It entails creating a curated collection of generative instruments that allow a comprehensive assessment of human cognition, experience and behavior.
 
-## {{<bi puzzle>}} Projects
+## {{< iconify bi:puzzle >}} Projects
 
 ::: {#projects}
 :::

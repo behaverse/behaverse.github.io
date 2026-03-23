@@ -7,7 +7,7 @@ description: |
   Behaverse comprises a large battery of cognitive tests covering a wide range of domains, including attentional, perceptual, cognitive and motor abilities. This battery consists of multiple cognitive assessments which are highly customizable (including the instructions, tutorials, and practice blocks). By configuring a specific cognitive assessment it is possible to instantiate many different cognitive tests.
 links:
   - title: Learn more
-    icon: bi info-circle
+    icon: iconify bi:info-circle
     href: /projects/cognitive-tests.qmd
 media:
   videos:

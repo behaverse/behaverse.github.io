@@ -13,9 +13,9 @@ media:
       caption: CogEnv architecture; see [CogEnv paper](https://2022.ccneuro.org/proceedings/0000205.pdf) for details.
 links:
     - title: Paper
-      icon: bi file-text
+      icon: iconify bi:file-text
       href: https://2022.ccneuro.org/proceedings/0000205.pdf
     - title: GitHub
-      icon: bi github
+      icon: iconify bi:github
       href: https://github.com/morteza/CogEnv
 ---

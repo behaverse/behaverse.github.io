@@ -15,10 +15,10 @@ Video games provide new opportunities for research in cognitive science research
   
 Furthermore the effective use of public video games for cognitive science research requires the integration of various facets of cognitive science research that are typically studied separately (e.g., user experience, motivation, cognition). They also require a scientific theory of game design to translate our scientific understanding into concrete game experiences. 
 
-## {{< bi eye >}}  Vision  
+## {{< iconify bi:eye >}}  Vision  
 To make large-audience, high-quality video games a main driver of cognitive science research and societal impact.
 
-##  {{< bi puzzle >}} Projects
+##  {{< iconify bi:puzzle >}} Projects
 
 ::: {#projects}
 :::

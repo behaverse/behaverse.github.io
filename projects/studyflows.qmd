@@ -1,16 +1,16 @@
 ---
 order: 5
-title: Studyflows
-subtitle: prototype
+title: Studyflow
+subtitle: Standardizing experimental protocols
 categories:
   - standards
 description: |
-  Experimental protocols in cognitive sciences are commonly described as text in research papers. We propose to extend BPMN to formally describe experimental procedures (i.e., the flow of participants across activities within a study). This ensures completeness and consistency, and supports the development of new automation (e.g., softwares for visualizing studies or analyzing data).
+  Experimental protocols in cognitive sciences are commonly described as text in research papers. Studyflow extends BPMN to formally describe experimental procedures (i.e., the flow of participants across activities within a study) as machine-readable, human-understandable diagrams. This ensures completeness and consistency, and supports the development of new automation (e.g., softwares for visualizing studies or analyzing data).
 links:
-  - title: Specification
-    icon: bi globe
-    href: https://behaverse.org/data-model/spec/general/studyflows
+  - title: Specifications
+    icon: iconify bi:globe
+    href: https://behaverse.org/studyflow-modeler/docs
   - title: Studyflow Modeler
-    icon: bi bounding-box
+    icon: iconify bi:bounding-box
     href: https://behaverse.org/studyflow-modeler
 ---

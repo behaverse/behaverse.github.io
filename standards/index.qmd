@@ -14,10 +14,10 @@ body-classes: standards
 Standards are necessary to ensure quality and reproducibility and to support the development of more effective operating procedures (e.g., automation). Virtually all aspects of research and data processing could benefit from clear and consistent standards. In the Standards galaxy, we present our efforts towards developing such standards; these projects typically comprise specifications (i.e., text documents) and code (e.g., validators, visualization).
 
 
-## {{< bi eye >}} Vision
+## {{< iconify bi:eye >}} Vision
 To support the sharing and reuse of data, to facilitate and enable the development of new tools.
 
-##  {{< bi puzzle >}} Projects
+##  {{< iconify bi:puzzle >}} Projects
 
 ::: {.projects}
 :::

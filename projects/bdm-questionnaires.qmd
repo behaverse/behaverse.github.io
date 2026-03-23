@@ -7,6 +7,6 @@ description: |
   Questionnaires are perhaps the most commonly used tool to collect data in social sciences. And while much work has gone into improving the design of questionnaires, comparatively little effort has gone in defining how data collected via questionnaires should be structured, stored and shared. In this standard we propose to organize questionnaire response data in a way that is consistent with the L1 behavioral test data standard but very different from the way such data is typically structured in publicly available datasets. 
 links:
   - title: Specifications
-    icon: bi globe
+    icon: iconify bi:globe
     href: https://behaverse.org/data-model/spec/general/questionnaires
 ---

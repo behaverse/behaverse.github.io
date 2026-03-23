@@ -11,6 +11,6 @@ description: |
   We also curated a list of questionnaires that we modified to increase consistency and data quality. We also developed software to distribute our questionnaires online while being GDPR compliant, multilingual, and supporting the collection of event data (e.g., key strokes, mouse trajectory) using a consistent data model. Finally, we developed a questionnaire response data model to facilitate and streamline the analysis of questionnaire response data.
 links:
   - title: Learn more
-    icon: bi info-circle
+    icon: iconify bi:info-circle
     href: /projects/questionnaires.qmd
 ---
