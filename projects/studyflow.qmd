@@ -30,7 +30,7 @@ links:
     href: https://behaverse.org/studyflow-modeler/app
   - title: Documentation
     icon: iconify bi:book
-    href: https://behaverse.org/studyflow-modeler/docs
+    href: https://behaverse.org/studyflow/docs
   - title: GitHub
     icon: iconify bi:github
     href: https://github.com/behaverse/studyflow-modeler
@@ -46,7 +46,7 @@ links:
 
 ::: {.sf-actions}
 [Open the modeler <i class="bi bi-arrow-right"></i>](https://behaverse.org/studyflow-modeler/app){.sf-btn .sf-btn-primary}
-[<i class="bi bi-book"></i> Documentation](https://behaverse.org/studyflow-modeler/docs){.sf-btn .sf-btn-ghost}
+[<i class="bi bi-book"></i> Documentation](https://behaverse.org/studyflow/docs){.sf-btn .sf-btn-ghost}
 [<i class="bi bi-github"></i> GitHub](https://github.com/behaverse/studyflow-modeler){.sf-btn .sf-btn-ghost}
 :::
 :::

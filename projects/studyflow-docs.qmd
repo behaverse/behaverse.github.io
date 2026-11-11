@@ -1,0 +1,13 @@
+---
+aliases:
+  - /studyflow/docs/index.html
+title: Studyflow documentation
+title-block-banner: false
+toc: false
+search: false
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=/studyflow-modeler/docs/">
+---
+
+The Studyflow documentation is at <https://behaverse.org/studyflow-modeler/docs/>.
